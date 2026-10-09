@@ -1,9 +1,14 @@
 # Satzung
 
-## 1 Name und Sitz des Vereins
+## 1 Name, Sitz und Geschäftsjahr
 
-Der Verein soll ins Vereinsregister eingetragen werden und heißt dann Förderverein „Neuhäuseler Wichtel“ nach Eintragung mit dem Zusatz e.V.”
-Er hat seinen Sitz in Neuhäusel und ist in das Vereinsregister beim Amtsgericht Montabaur einzutragen.
+(1) Der Verein führt den Namen „Förderverein Neuhäuseler Wichtel e.V.“.
+
+(2) Der Verein hat seinen Sitz in Neuhäusel.
+
+(3) Der Verein ist in das Vereinsregister beim Amtsgericht Montabaur eingetragen.
+
+(4) Geschäftsjahr ist das Kalenderjahr.
 
 ## 2 Vereinszweck
 
@@ -93,9 +98,6 @@ Der Mitgliedsbeitrag wird in der Mitgliederversammlung festgelegt, ansonsten kan
 Bei Eintritt/Austritt während des laufenden Geschäftsjahres wird der volle Mitgliedsbeitrag fällig bzw. einbehalten.
 Bei Nichtzahlung des Mitgliedsbeitrages trotz zweimaliger Mahnung kann der Vorstand den Ausschluss eines Mitglieds beschließen.
 
-## 9 Geschäftsjahr
-
-Geschäftsjahr ist das Kalenderjahr.
 
 ## 10 Vorstand
 
