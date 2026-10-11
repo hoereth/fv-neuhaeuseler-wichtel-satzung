@@ -92,8 +92,10 @@ Diese Änderungen sind auf der nächsten Mitgliederversammlung vorzutragen.
 Der Verein finanziert sich aus Mitgliedsbeiträgen, Spenden und Zuwendungen.
 Er prüft auch, Zuwendungen aus öffentlichen Mitteln zu erhalten.
 Es werden Mitgliedsbeiträge erhoben, die jeweils für ein Geschäftsjahr im Voraus zu entrichten sind.
-Liegt eine Einzugsermächtigung vor, so wird im Januar eines jeden Jahres der Einzug erfolgen.
-Sollte eine Zahlung nicht ausgeführt werden, so hat das Mitglied den Beitrag mitsamt der Kosten zu überweisen.
+Liegt ein SEPA-Lastschriftmandat vor, so wird der Beitrag im Januar eines jeden Jahres eingezogen.
+Mitglieder sind verpflichtet, dem Vorstand Änderungen ihrer Bankverbindung unverzüglich mitzuteilen.
+Kann eine Lastschrift aus Gründen, die das Mitglied zu vertreten hat, nicht eingelöst werden, insbesondere wegen mangelnder Kontodeckung, eines erloschenen Kontos, einer nicht mitgeteilten Änderung der Bankverbindung oder eines unberechtigten Widerspruchs, so trägt das Mitglied die dem Verein dadurch entstehenden Bankgebühren.
+In diesem Fall hat das Mitglied den Beitrag zuzüglich dieser Gebühren innerhalb von zwei Wochen nach Aufforderung durch den Vorstand zu überweisen.
 Der Mitgliedsbeitrag wird in der Mitgliederversammlung festgelegt, ansonsten kann jedes Mitglied darüber hinaus freiwillig weitere Beiträge leisten.
 Bei Eintritt/Austritt während des laufenden Geschäftsjahres wird der volle Mitgliedsbeitrag fällig bzw. einbehalten.
 Bei Nichtzahlung des Mitgliedsbeitrages trotz zweimaliger Mahnung kann der Vorstand den Ausschluss eines Mitglieds beschließen.
