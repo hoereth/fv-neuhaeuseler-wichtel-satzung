@@ -128,7 +128,7 @@ Beschlüsse des Vorstands werden mit einfacher Mehrheit gefasst.
 Bei Stimmengleichheit gilt der Antrag als abgelehnt.
 Der Vorstand ist beschlussfähig, wenn mindestens zwei Vorstandsmitglieder, darunter einer der beiden Vorsitzenden anwesend sind.
 Ein Beschluss des Vorstands kann auch schriftlich oder fernmündlich gefasst werden, wenn kein Vorstandsmitglied widerspricht.
-Der/die Kassierer(in) verwaltet die Vereinskasse und führt Buch über die Einnahmen und Ausgaben und verwaltet Barkasse sowie Bankvermögen des Vereins.
+Der/die Kassenführer(in) verwaltet die Vereinskasse und führt Buch über die Einnahmen und Ausgaben und verwaltet Barkasse sowie Bankvermögen des Vereins.
 Er leistet Auszahlungen, bei Beträgen über 200,00€ nur nach Entscheidung des gesamten geschäftsführenden Vorstandes.
 Über die Sitzung des Vorstands ist ein Protokoll zu führen, das vom Versammlungsleiter und Schriftführer zu unterzeichnen ist.
 Alle Vorstandsmitglieder arbeiten ehrenamtlich und erhalten lediglich ihre nachgewiesenen Auslagen erstattet.
