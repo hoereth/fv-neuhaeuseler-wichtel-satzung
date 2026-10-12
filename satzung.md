@@ -26,9 +26,11 @@ Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind,
 
 Mitglied des Vereins kann jede volljährige natürliche Person werden.
 
-Der Aufnahmeantrag ist in Textform an den Vorstand zu richten. Mit dem Aufnahmeantrag teilt das Mitglied zugleich die von ihm selbst gewählte Höhe des jährlichen Mitgliedsbeitrags mit.
+Der Aufnahmeantrag ist in Textform an den Vorstand zu richten. Mit dem Aufnahmeantrag teilt das Mitglied zugleich die von ihm selbst gewählte Höhe des jährlichen Mitgliedsbeitrags mit, die den von der Mitgliederversammlung festgesetzten Mindestbeitrag nicht unterschreiten darf.
 
 Die Aufnahme erfolgt durch Beschluss des Vorstands. Ein Anspruch auf Aufnahme besteht nicht. Eine Ablehnung muss nicht begründet werden.
+
+Änderungen der dem Verein mitgeteilten Kontaktdaten, der Bankverbindung und der Höhe des Mitgliedsbeitrags sind dem Vorstand schriftlich mitzuteilen. Änderungen des Mitgliedsbeitrags werden ab dem folgenden Geschäftsjahr wirksam.
 
 Der Austritt ist gegenüber dem Vorstand in Textform zu erklären. Der Austritt ist jederzeit möglich und ist an keine Frist gebunden. Die Beitragspflicht endet mit Ablauf des Geschäftsjahres, in welchem die Mitgliedschaft endet.
 
@@ -62,7 +64,7 @@ Ein Mitglied ist nicht stimmberechtigt, wenn die Beschlussfassung die Vornahme e
 Aufgaben der Mitgliederversammlung sind:
 
 * Satzungsänderungen, hierüber entscheidet die Mitgliederversammlung mit 2/3-Mehrheit der anwesenden Mitglieder;
-* Festsetzung der Höhe der Mitgliedsbeiträge;
+* Festsetzung der Mindesthöhe der Mitgliedsbeiträge;
 * Entgegennahme des Jahresberichtes des/der Vorsitzenden und des Berichtes der Kassenprüfer(innen);
 * Beschluss über die Entlastung des Vorstandes;
 * (im Wahljahr) Wahl und Abberufung des Vorstandes; der Beisitzer
@@ -83,7 +85,7 @@ Er prüft auch, Zuwendungen aus öffentlichen Mitteln zu erhalten.
 Es werden Mitgliedsbeiträge erhoben, die jeweils für ein Geschäftsjahr im Voraus zu entrichten sind.
 Liegt eine Einzugsermächtigung vor, so wird im Januar eines jeden Jahres der Einzug erfolgen.
 Sollte eine Zahlung nicht ausgeführt werden, so hat das Mitglied den Beitrag mitsamt der Kosten zu überweisen.
-Der Mitgliedsbeitrag wird in der Mitgliederversammlung festgelegt, ansonsten kann jedes Mitglied darüber hinaus freiwillig weitere Beiträge leisten.
+Jedes Mitglied legt die Höhe seines jährlichen Mitgliedsbeitrags selbst fest. Dieser darf den von der Mitgliederversammlung festgesetzten Mindestbeitrag nicht unterschreiten. Darüber hinaus können freiwillig weitere Beiträge geleistet werden.
 Bei Eintritt/Austritt während des laufenden Geschäftsjahres wird der volle Mitgliedsbeitrag fällig bzw. einbehalten.
 Bei Nichtzahlung des Mitgliedsbeitrages trotz zweimaliger Mahnung kann der Vorstand den Ausschluss eines Mitglieds beschließen.
 
