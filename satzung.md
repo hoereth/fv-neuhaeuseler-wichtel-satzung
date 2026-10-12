@@ -140,13 +140,13 @@ Die Auflösung des Vereins kann nur von einer zu diesem Zweck einberufenen auße
 Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die Gemeinde Neuhäusel, die es unmittelbar und ausschließlich für gemeinnützige Zwecke, Kinder und Jugendarbeit betreffend, nach Möglichkeit für die Kindertagesstätte Wichtelhaus Neuhäusel, zu verwenden hat.
 Die aus den Geldern angeschafften Sachwerte können den Einrichtungen nicht entzogen werden.
 
-## 13 Revision/Rechnungsprüfung
+## 13 Kassenprüfung
 
-Die Mitgliederversammlung wählt zwei Kassenprüfer(innen) für die Dauer von zwei Jahren.
-Einer der beiden Kassenprüfer(innen) kann wiedergewählt werden.
-Kein Kassenprüfer darf über die Amtszeit von 4 Jahren hinaus wiedergewählt werden.
-Die Aufgaben sind die Rechnungsprüfung und die Überprüfung der Einhaltung der Vereinsbeschlüsse.
-Die Kassenprüfung findet zeitnah vor der Mitgliederversammlung statt.
+(1) Die Mitgliederversammlung wählt zwei Kassenprüfer/innen für die Dauer von zwei Jahren. Einer der beiden Kassenprüfer(innen) kann wiedergewählt werden. Kein Kassenprüfer darf über die Amtszeit von 4 Jahren hinaus wiedergewählt werden. Kassenprüfer/innen dürfen nicht dem Vorstand angehören und nicht mit der laufenden Kassenführung befasst sein.
+
+(2) Die Kassenprüfer/innen prüfen nach Abschluss des Geschäftsjahres und vor der ordentlichen Mitgliederversammlung die Ordnungsmäßigkeit der Kassen- und Buchführung sowie die satzungsgemäße Verwendung der Mittel.
+
+(3) Die Kassenprüfer/innen berichten der Mitgliederversammlung über das Ergebnis ihrer Prüfung und beantragen bei ordnungsgemäßer Kassenführung die Entlastung des Vorstands.
 
 ## 14 Inkrafttreten der Satzung
 
