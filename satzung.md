@@ -54,32 +54,40 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 ## 6 Mitgliederversammlung
 
-Die Mitgliederversammlung findet mindestens einmal jährlich statt, und zwar in der Zeit von Oktober bis Dezember eines Jahres.
-Die Tagesordnung wird vom Vorstand festgelegt.
-Der Vorstand beruft die Mitgliederversammlung ein und leitet sie.
-Der Termin zur Mitgliederversammlung ist allen Mitgliedern schriftlich unter Bekanntgabe der Tagesordnung spätestens zwei Wochen vor dem Versammlungstermin mitzuteilen.
-Jedes Mitglied kann bis spätestens eine Woche vor einer Mitgliederversammlung beim Vorstand schriftlich eine Ergänzung der Tagesordnung beantragen.
-Der Versammlungsleiter hat zu Beginn der Mitgliederversammlung die Ergänzung bekannt zu geben.
-Über Anträge auf Ergänzung der Tagesordnung, die in Mitgliederversammlungen gestellt werden, beschließt die Versammlung.
-Der Vorstand kann außerordentliche Mitgliederversammlungen bei wichtigen Anlässen einberufen.
-Der Vorstand ist zur Einberufung einer außerordentlichen Mitgliederversammlung verpflichtet, wenn mindestens ein Drittel der Mitglieder dies schriftlich unter Angabe von Gründen verlangt.
-Über die Mitgliederversammlung ist ein Protokoll zu führen, das von dem/der Versammlungsleiter(in) und dem/der Protokollführer(in) zu unterzeichnen ist.
-Die Mitgliederversammlung ist ohne Rücksicht auf die Zahl der erschienenen Mitglieder entscheidungsbefugt.
-Sie beschließt über Anträge durch einfache Mehrheit, soweit sie nicht Satzungsänderungen oder die Auflösung des Vereins betreffen.
-Alle Mitglieder über 18 Jahre sind stimmberechtigt.
-Jedes Mitglied hat eine Stimme.
-Die Stimme kann nicht durch einen Vertreter abgegeben werden.
-Ein Mitglied ist nicht stimmberechtigt, wenn die Beschlussfassung die Vornahme eines Rechtsgeschäfts mit ihm oder der Einleitung oder Erledigung eines Rechtstreits zwischen ihm und dem Verein betrifft.
-Aufgaben der Mitgliederversammlung sind:
+(1) Die ordentliche Mitgliederversammlung findet einmal jährlich innerhalb der ersten sechs Monate nach Ablauf des Geschäftsjahres statt.
 
-* Satzungsänderungen, hierüber entscheidet die Mitgliederversammlung mit 2/3-Mehrheit der anwesenden Mitglieder;
-* Festsetzung der Höhe der Mitgliedsbeiträge;
-* Entgegennahme des Jahresberichtes des/der Vorsitzenden und des Berichtes der Kassenprüfer(innen);
-* Beschluss über die Entlastung des Vorstandes;
-* (im Wahljahr) Wahl und Abberufung des Vorstandes; der Beisitzer
-* (im Wahljahr) Wahl und Abberufung zweier Kassenprüfer(innen)
-* Ernennung von Ehrenmitgliedern
-* Auflösung des Vereins • Entscheidung über eingereichte Anträge
+(2) Die Mitgliederversammlung wird vom Vorstand unter Angabe der Tagesordnung mit einer Frist von mindestens zwei Wochen in Textform einberufen. Die Einberufung kann insbesondere per E-Mail erfolgen.
+
+(3) Die Tagesordnung wird vom Vorstand festgelegt. Jedes Mitglied kann bis spätestens eine Woche vor der Mitgliederversammlung beim Vorstand in Textform die Ergänzung der Tagesordnung beantragen. Über Anträge auf Ergänzung der Tagesordnung, die erst in der Mitgliederversammlung gestellt werden, entscheidet die Mitgliederversammlung.
+
+(4) Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn dies das Vereinsinteresse erfordert oder wenn mindestens ein Zehntel der Mitglieder dies unter Angabe des Zwecks und der Gründe in Textform verlangt.
+
+(5) Die Mitgliederversammlung wird vom/von der Vorsitzenden, bei dessen/deren Verhinderung vom/von der stellvertretenden Vorsitzenden geleitet.
+
+(6) Die Mitgliederversammlung kann als Präsenzversammlung, als hybride Versammlung oder, soweit die gesetzlichen Voraussetzungen erfüllt sind, als virtuelle Versammlung durchgeführt werden. In der Einladung ist anzugeben, wie die Mitglieder ihre Rechte im Wege der elektronischen Kommunikation ausüben können.
+
+(7) Die Mitgliederversammlung ist unabhängig von der Zahl der erschienenen stimmberechtigten Mitglieder beschlussfähig, sofern sie ordnungsgemäß einberufen wurde.
+
+(8) Jedes Mitglied ab Vollendung des 18. Lebensjahres hat eine Stimme. Eine Übertragung des Stimmrechts ist nicht zulässig.
+
+(9) Ein Mitglied ist nicht stimmberechtigt, wenn die Beschlussfassung die Vornahme eines Rechtsgeschäfts mit ihm oder die Einleitung oder Erledigung eines Rechtsstreits zwischen ihm und dem Verein betrifft.
+
+(10) Bei der Beschlussfassung entscheidet die einfache Mehrheit der abgegebenen gültigen Stimmen, soweit diese Satzung nichts Abweichendes bestimmt. Stimmenthaltungen werden nicht als abgegebene Stimmen gewertet.
+
+(11) Über die Mitgliederversammlung ist ein Protokoll zu führen. Das Protokoll ist vom/von der Versammlungsleiter/in und vom/von der Protokollführer/in zu unterzeichnen.
+
+(12) Die Mitgliederversammlung ist insbesondere zuständig für:
+
+* Satzungsänderungen, hierüber entscheidet die Mitgliederversammlung mit 2/3-Mehrheit der anwesenden stimmberechtigten Mitglieder,
+* die Entgegennahme des Jahresberichts des Vorstands,
+* die Entgegennahme des Kassenberichts,
+* die Entgegennahme des Berichts der Kassenprüfer/innen,
+* die Beschlussfassung über die Entlastung des Vorstands,
+* im Wahljahr die Wahl und Abberufung des Vorstands; der Beisitzer,
+* im Wahljahr die Wahl der Kassenprüfer/innen,
+* die Ernennung von Ehrenmitgliedern,
+* die Auflösung des Vereins,
+* die Beschlussfassung über sonstige Anträge.
 
 ## 7 Satzungsänderungen
 
