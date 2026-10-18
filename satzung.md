@@ -78,7 +78,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 * die Entgegennahme des Kassenberichts,
 * die Entgegennahme des Berichts der Kassenprüfer/innen,
 * die Beschlussfassung über die Entlastung des Vorstands,
-* im Wahljahr die Wahl und Abberufung des Vorstands; der Beisitzer,
+* im Wahljahr die Wahl und Abberufung des Vorstands und der Beisitzer/innen,
 * im Wahljahr die Wahl der Kassenprüfer/innen,
 * die Ernennung von Ehrenmitgliedern,
 * die Auflösung des Vereins,
