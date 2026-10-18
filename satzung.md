@@ -51,7 +51,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (1) Die ordentliche Mitgliederversammlung findet einmal jährlich innerhalb der ersten sechs Monate nach Ablauf des Geschäftsjahres statt.
 
-(2) Die Mitgliederversammlung wird vom Vorstand unter Angabe der Tagesordnung mit einer Frist von mindestens zwei Wochen in Textform einberufen. Die Einberufung kann insbesondere per E-Mail erfolgen.
+(2) Die Mitgliederversammlung wird vom Vorstand unter Angabe der Tagesordnung mit einer Frist von mindestens zwei Wochen in Textform einberufen. Die Einberufung kann insbesondere per E-Mail erfolgen. Die Einladung gilt als zugegangen, wenn sie an die letzte vom Mitglied in Textform mitgeteilte Post- oder E-Mail-Adresse gerichtet wurde. Die Frist beginnt mit dem auf die Absendung folgenden Tag.
 
 (3) Die Tagesordnung wird vom Vorstand festgelegt. Jedes Mitglied kann bis spätestens eine Woche vor der Mitgliederversammlung beim Vorstand in Textform die Ergänzung der Tagesordnung beantragen. Über Anträge auf Ergänzung der Tagesordnung, die erst in der Mitgliederversammlung gestellt werden, entscheidet die Mitgliederversammlung.
 
