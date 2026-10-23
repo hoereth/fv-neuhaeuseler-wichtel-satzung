@@ -7,15 +7,17 @@ Er hat seinen Sitz in Neuhäusel und ist in das Vereinsregister beim Amtsgericht
 
 ## 2 Vereinszweck
 
-1. Zweck des Vereins ist die Förderung der Erziehung und der Jugendhilfe.
-2. Der Satzungszweck wird insbesondere verwirklicht durch:
-	- die ideelle und finanzielle Unterstützung der pädagogischen Arbeit der Kindertagesstätte Wichtelhaus in Neuhäusel,
-    - die Förderung der Zusammenarbeit zwischen Eltern, pädagogischen Fachkräften und dem Träger der Kindertagesstätte,
-	- die Beschaffung und Bereitstellung von Spiel-, Lern- und Ausstattungsgegenständen,
-	- die Förderung pädagogischer und gemeinschaftlicher Veranstaltungen,
-	- die Unterstützung von Projekten der Kinder- und Jugendarbeit,
-	- die Unterstützung von Maßnahmen und Angeboten, die unmittelbar den betreuten Kindern und Jugendlichen zugutekommen.
-3. Die Unterstützung einzelner Kinder oder Jugendlicher in besonderen Fällen erfolgt nur, soweit hierfür die gesetzlichen Voraussetzungen vorliegen.
+(1) Zwecke des Vereins sind
+1. die Förderung der Erziehung, der Kinder- und Jugendhilfe,
+2. die Unterstützung von Kindern, die wegen ihres körperlichen, geistigen oder seelischen Zustands oder wegen ihrer wirtschaftlichen Lage auf die Hilfe anderer angewiesen sind.
+
+(2) Die Satzungszwecke werden insbesondere verwirklicht durch:
+- die ideelle und finanzielle Unterstützung der pädagogischen Arbeit der Kindertagesstätte Wichtelhaus in Neuhäusel,
+- die Förderung der Zusammenarbeit zwischen Eltern, pädagogischen Fachkräften und dem Träger der Kindertagesstätte,
+- die Beschaffung und Bereitstellung von Spiel-, Lern- und Ausstattungsgegenständen,
+- die Förderung pädagogischer und gemeinschaftlicher Veranstaltungen,
+- die Unterstützung von Projekten der Kinder- und Jugendarbeit in der Gemeinde Neuhäusel,
+- die Unterstützung hilfsbedürftiger Kinder der Kindertagesstätte, insbesondere durch die Übernahme von Kosten für Ausflüge, Veranstaltungen, Verpflegung oder Material.
 
 ## 3 Gemeinnützigkeit
 
