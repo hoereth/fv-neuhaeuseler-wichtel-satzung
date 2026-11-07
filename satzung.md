@@ -89,8 +89,8 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 * die Entgegennahme des Kassenberichts,
 * die Entgegennahme des Berichts der Kassenprüfer/innen,
 * die Beschlussfassung über die Entlastung des Vorstands,
-* im Wahljahr die Wahl und Abberufung des Vorstands und der Beisitzer/innen,
-* im Wahljahr die Wahl der Kassenprüfer/innen,
+* die Wahl und Abberufung des Vorstands und der Beisitzer/innen,
+* die Wahl der Kassenprüfer/innen,
 * die Ernennung von Ehrenmitgliedern,
 * die Auflösung des Vereins,
 * die Beschlussfassung über sonstige Anträge.
@@ -118,9 +118,10 @@ Bei Nichtzahlung des Mitgliedsbeitrages trotz zweimaliger Mahnung kann der Vorst
 Der Vorstand besteht aus: dem/der 1. Vorsitzenden, dem/der 2. Vorsitzenden, dem/der Schriftführer(in) und dem/der Kassenführer(in).
 Die Mitgliederversammlung kann durch einfache Mehrheit beschließen, dass dazu eine Anzahl Beisitzer dem Vorstand beitreten, davon möglichst ein(e) Mitarbeiter(in) des Kindergartens und möglichst ein(e) Elternvertreter(in).
 Die Beisitzer haben beratende Funktion ohne Stimmrecht.
-Der Vorstand und die Beisitzer werden von der Mitgliederversammlung jeweils für zwei Jahre gewählt.
+Der Vorstand und die Beisitzer werden von der Mitgliederversammlung jeweils für 2 Jahre gewählt.
+Die Amtszeit beginnt mit der Annahme der Wahl.
+Die Amtszeit eines Vorstandsmitglieds verlängert sich bis zum Amtsantritt seines Nachfolgers.
 Wiederwahl ist zulässig.
-Der Vorstand bleibt bis zur Wahl eines neuen Vorstandes geschäftsführend im Amt.
 Scheidet ein Mitglied des Vorstandes während der Amtsperiode aus, kann der Vorstand für die Dauer der restlichen Amtsdauer ein Ersatzmitglied berufen.
 Der/die 1. Vorsitzende, der/die 2. Vorsitzende, der/die Schriftführer(in) und der/die Kassenführer(in) sind Vorstand im Sinne des § 26 BGB.
 Je zwei von ihnen sind gemeinsam vertretungs- und zeichnungsberechtigt.
