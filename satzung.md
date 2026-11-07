@@ -1,9 +1,14 @@
 # Satzung
 
-## 1 Name und Sitz des Vereins
+## 1 Name, Sitz und Geschäftsjahr
 
-Der Verein soll ins Vereinsregister eingetragen werden und heißt dann Förderverein „Neuhäuseler Wichtel“ nach Eintragung mit dem Zusatz e.V.”
-Er hat seinen Sitz in Neuhäusel und ist in das Vereinsregister beim Amtsgericht Montabaur einzutragen.
+(1) Der Verein führt den Namen „Förderverein Neuhäuseler Wichtel e.V.“.
+
+(2) Der Verein hat seinen Sitz in Neuhäusel.
+
+(3) Der Verein ist in das Vereinsregister beim Amtsgericht Montabaur eingetragen.
+
+(4) Geschäftsjahr ist das Kalenderjahr.
 
 ## 2 Vereinszweck
 
@@ -101,9 +106,6 @@ Der Mitgliedsbeitrag wird in der Mitgliederversammlung festgelegt, ansonsten kan
 Bei Eintritt/Austritt während des laufenden Geschäftsjahres wird der volle Mitgliedsbeitrag fällig bzw. einbehalten.
 Bei Nichtzahlung des Mitgliedsbeitrages trotz zweimaliger Mahnung kann der Vorstand den Ausschluss eines Mitglieds beschließen.
 
-## 9 Geschäftsjahr
-
-Geschäftsjahr ist das Kalenderjahr.
 
 ## 10 Vorstand
 
@@ -134,7 +136,7 @@ Beschlüsse des Vorstands werden mit einfacher Mehrheit gefasst.
 Bei Stimmengleichheit gilt der Antrag als abgelehnt.
 Der Vorstand ist beschlussfähig, wenn mindestens zwei Vorstandsmitglieder, darunter einer der beiden Vorsitzenden anwesend sind.
 Ein Beschluss des Vorstands kann auch schriftlich oder fernmündlich gefasst werden, wenn kein Vorstandsmitglied widerspricht.
-Der/die Kassierer(in) verwaltet die Vereinskasse und führt Buch über die Einnahmen und Ausgaben und verwaltet Barkasse sowie Bankvermögen des Vereins.
+Der/die Kassenführer(in) verwaltet die Vereinskasse und führt Buch über die Einnahmen und Ausgaben und verwaltet Barkasse sowie Bankvermögen des Vereins.
 Er leistet Auszahlungen, bei Beträgen über 200,00€ nur nach Entscheidung des gesamten geschäftsführenden Vorstandes.
 Über die Sitzung des Vorstands ist ein Protokoll zu führen, das vom Versammlungsleiter und Schriftführer zu unterzeichnen ist.
 Alle Vorstandsmitglieder arbeiten ehrenamtlich und erhalten lediglich ihre nachgewiesenen Auslagen erstattet.
@@ -146,13 +148,13 @@ Die Auflösung des Vereins kann nur von einer zu diesem Zweck einberufenen auße
 Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die Gemeinde Neuhäusel, die es unmittelbar und ausschließlich für gemeinnützige Zwecke, Kinder und Jugendarbeit betreffend, nach Möglichkeit für die Kindertagesstätte Wichtelhaus Neuhäusel, zu verwenden hat.
 Die aus den Geldern angeschafften Sachwerte können den Einrichtungen nicht entzogen werden.
 
-## 13 Revision/Rechnungsprüfung
+## 13 Kassenprüfung
 
-Die Mitgliederversammlung wählt zwei Kassenprüfer(innen) für die Dauer von zwei Jahren.
-Einer der beiden Kassenprüfer(innen) kann wiedergewählt werden.
-Kein Kassenprüfer darf über die Amtszeit von 4 Jahren hinaus wiedergewählt werden.
-Die Aufgaben sind die Rechnungsprüfung und die Überprüfung der Einhaltung der Vereinsbeschlüsse.
-Die Kassenprüfung findet zeitnah vor der Mitgliederversammlung statt.
+(1) Die Mitgliederversammlung wählt zwei Kassenprüfer/innen für die Dauer von zwei Jahren. Einer der beiden Kassenprüfer(innen) kann wiedergewählt werden. Kein Kassenprüfer darf über die Amtszeit von 4 Jahren hinaus wiedergewählt werden. Kassenprüfer/innen dürfen nicht dem Vorstand angehören und nicht mit der laufenden Kassenführung befasst sein.
+
+(2) Die Kassenprüfer/innen prüfen nach Abschluss des Geschäftsjahres und vor der ordentlichen Mitgliederversammlung die Ordnungsmäßigkeit der Kassen- und Buchführung sowie die satzungsgemäße Verwendung der Mittel.
+
+(3) Die Kassenprüfer/innen berichten der Mitgliederversammlung über das Ergebnis ihrer Prüfung und beantragen bei ordnungsgemäßer Kassenführung die Entlastung des Vorstands.
 
 ## 14 Inkrafttreten der Satzung
 
