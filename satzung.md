@@ -27,25 +27,21 @@ Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werde
 Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
 Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
-## 4 Erwerb und Verlust der Mitgliedschaft
+## 4 Erwerb und Beendigung der Mitgliedschaft
 
-Mitglied kann jede natürliche oder juristische Person werden.
-Der Antrag auf Aufnahme in den Verein ist schriftlich an den Vorstand zu richten.
-Bei Jugendlichen muss eine schriftliche Einverständniserklärung aller Erziehungsberechtigten vorliegen.
-Über die Aufnahme entscheidet der Vorstand.
-Der Eintritt wird mit Aushändigung einer schriftlichen Aufnahmeerklärung wirksam.
-Die Ablehnung durch den Vorstand ist nicht anfechtbar.
-Ein Aufnahmeanspruch besteht nicht.
-Die Mitgliedschaft endet durch Austritt, Tod, Erlöschen der juristischen Person oder Ausschluss.
-Der Austritt erfolgt durch schriftliche Anzeige an den Vorstand.
-Er kann jederzeit erfolgen und ist an keine Frist gebunden.
-Die Beitragspflicht endet mit Ablauf des Geschäftsjahres, in welchem die Mitgliedschaft endet.
-Die Mitgliedschaft ist nicht übertragbar und nicht vererblich.
-Die Ausübung der Mitgliedschaftsrechte kann nicht einem anderen überlassen werden.
-Die Ausschließung eines Mitgliedes aus dem Verein kann durch den Vorstand ausgesprochen werden, wenn in der Person des Mitgliedes ein wichtiger Grund vorliegt, insbesondere, wenn sich das Mitglied einer unehrenhaften Handlung schuldig gemacht hat oder dem Zweck des Vereins vorsätzlich oder beharrlich zuwider handelt.
-Ehrenmitglieder können solche Personen werden, die sich in besonderer Weise um den Förderverein verdient gemacht haben.
-Ernennung erfolgt durch Beschluss der Mitgliederversammlung.
-Ehrenmitglieder sind beitragsfrei.
+Mitglied des Vereins kann jede volljährige natürliche Person werden.
+
+Der Aufnahmeantrag ist in Textform an den Vorstand zu richten. Mit dem Aufnahmeantrag teilt das Mitglied zugleich die von ihm selbst gewählte Höhe des jährlichen Mitgliedsbeitrags mit, die den von der Mitgliederversammlung festgesetzten Mindestbeitrag nicht unterschreiten darf.
+
+Die Aufnahme erfolgt durch Beschluss des Vorstands. Ein Anspruch auf Aufnahme besteht nicht. Eine Ablehnung muss nicht begründet werden.
+
+Änderungen der dem Verein mitgeteilten Kontaktdaten, der Bankverbindung und der Höhe des Mitgliedsbeitrags sind dem Vorstand schriftlich mitzuteilen. Änderungen des Mitgliedsbeitrags werden ab dem folgenden Geschäftsjahr wirksam.
+
+Der Austritt ist gegenüber dem Vorstand in Textform zu erklären. Der Austritt ist jederzeit möglich und ist an keine Frist gebunden. Die Beitragspflicht endet mit Ablauf des Geschäftsjahres, in welchem die Mitgliedschaft endet.
+
+Ein Mitglied kann aus wichtigem Grund durch Beschluss des Vorstands aus dem Verein ausgeschlossen werden. Ein wichtiger Grund liegt insbesondere vor, wenn ein Mitglied schuldhaft in erheblicher Weise gegen die Interessen oder Zwecke des Vereins verstößt. Vor der Entscheidung über den Ausschluss ist dem Mitglied Gelegenheit zur Stellungnahme zu geben. Die Entscheidung ist dem Mitglied in Textform mitzuteilen. Gegen den Ausschluss kann das Mitglied innerhalb eines Monats nach Zugang der Entscheidung Einspruch einlegen. Über den Einspruch entscheidet die nächste Mitgliederversammlung endgültig.
+
+Ehrenmitglieder können solche Personen werden, die sich in besonderer Weise um den Förderverein verdient gemacht haben. Ernennung erfolgt durch Beschluss der Mitgliederversammlung. Ehrenmitglieder sind beitragsfrei.
 
 ## 5 Organe des Vereins
 
@@ -100,9 +96,9 @@ Diese Änderungen sind auf der nächsten Mitgliederversammlung vorzutragen.
 Der Verein finanziert sich aus Mitgliedsbeiträgen, Spenden und Zuwendungen.
 Er prüft auch, Zuwendungen aus öffentlichen Mitteln zu erhalten.
 Es werden Mitgliedsbeiträge erhoben, die jeweils für ein Geschäftsjahr im Voraus zu entrichten sind.
-Liegt eine Einzugsermächtigung vor, so wird im Januar eines jeden Jahres der Einzug erfolgen.
-Sollte eine Zahlung nicht ausgeführt werden, so hat das Mitglied den Beitrag mitsamt der Kosten zu überweisen.
-Der Mitgliedsbeitrag wird in der Mitgliederversammlung festgelegt, ansonsten kann jedes Mitglied darüber hinaus freiwillig weitere Beiträge leisten.
+Liegt ein SEPA-Lastschriftmandat vor, so wird der Beitrag im Januar eines jeden Jahres eingezogen.
+Wird eine Lastschrift aus Gründen, die das Mitglied zu vertreten hat, nicht eingelöst oder zurückgegeben, insbesondere wegen mangelnder Kontodeckung, eines erloschenen Kontos, einer nicht mitgeteilten Änderung der Bankverbindung oder eines unberechtigten Widerspruchs, so hat das Mitglied den Beitrag zuzüglich der dem Verein dadurch entstehenden Bankgebühren zu überweisen.
+Jedes Mitglied legt die Höhe seines jährlichen Mitgliedsbeitrags selbst fest. Dieser darf den von der Mitgliederversammlung festgesetzten Mindestbeitrag nicht unterschreiten. Darüber hinaus können freiwillig weitere Beiträge geleistet werden.
 Bei Eintritt/Austritt während des laufenden Geschäftsjahres wird der volle Mitgliedsbeitrag fällig bzw. einbehalten.
 Bei Nichtzahlung des Mitgliedsbeitrages trotz zweimaliger Mahnung kann der Vorstand den Ausschluss eines Mitglieds beschließen.
 
