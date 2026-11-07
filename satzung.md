@@ -150,7 +150,7 @@ Der Vorstand hat das Recht, bei größeren Zuwendungen oder Überschüssen eine 
 
 ## 12 Auflösung/Wegfall des steuerbegünstigten Zwecks
 
-Die Auflösung des Vereins kann nur von einer zu diesem Zweck einberufenen außerordentlichen Mitgliederversammlung mit 3/4 Mehrheit der anwesenden stimmberechtigten Mitglieder beschlossen werden.
+Die Auflösung des Vereins kann nur von einer zu diesem Zweck einberufenen außerordentlichen Mitgliederversammlung mit einer Mehrheit von 3/4 der abgegebenen gültigen Stimmen beschlossen werden.
 Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die Gemeinde Neuhäusel, die es unmittelbar und ausschließlich für gemeinnützige Zwecke, Kinder und Jugendarbeit betreffend, nach Möglichkeit für die Kindertagesstätte Wichtelhaus Neuhäusel, zu verwenden hat.
 Die aus den Geldern angeschafften Sachwerte können den Einrichtungen nicht entzogen werden.
 
