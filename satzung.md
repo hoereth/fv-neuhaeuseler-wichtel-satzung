@@ -148,7 +148,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 ## § 11 Auflösung/Wegfall des steuerbegünstigten Zwecks
 
-(1) Die Auflösung des Vereins kann nur von einer zu diesem Zweck einberufenen außerordentlichen Mitgliederversammlung mit 3/4 Mehrheit der anwesenden stimmberechtigten Mitglieder beschlossen werden.
+(1) Die Auflösung des Vereins kann durch die Mitgliederversammlung mit einer Mehrheit von drei Vierteln der abgegebenen gültigen Stimmen beschlossen werden. Über die Auflösung kann nur abgestimmt werden, wenn sie in der Einladung zur Mitgliederversammlung angekündigt wurde.
 
 (2) Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die Gemeinde Neuhäusel, die es unmittelbar und ausschließlich für gemeinnützige Zwecke, Kinder und Jugendarbeit betreffend, nach Möglichkeit für die Kindertagesstätte Wichtelhaus Neuhäusel, zu verwenden hat.
 
