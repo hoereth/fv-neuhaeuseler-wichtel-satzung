@@ -18,11 +18,14 @@ Zu den Aufgaben gehören insbesondere:
 
 (1) Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 
-(2) Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
+(2) Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige und mildtätige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
 
 (3) Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
 
-(4) Es darf keine Person durch Ausgaben, die dem Zweck des Vereins fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+(4) Der Verein ist ein Förderverein. Er verwirklicht seine Zwecke auch durch die Beschaffung von Geld- und Sachmitteln und deren Weitergabe an den Träger der Kindertagesstätte Wichtelhaus zur Verwendung in der Kindertagesstätte für die im Vereinszweck genannten steuerbegünstigten Zwecke.
+
+(5) Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+
 
 ## 4 Erwerb und Verlust der Mitgliedschaft
 
