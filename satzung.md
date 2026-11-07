@@ -12,12 +12,17 @@
 
 ## 2 Vereinszweck
 
-Zweck des Vereins ist die ideelle und finanzielle Unterstützung der Arbeit der Kindertagesstätte Wichtelhaus, Am Eisenköppel 2 A, 56335 Neuhäusel, zur Förderung der Zusammenarbeit zwischen Eltern, Erziehern/innen und dem Kindergartenträger und die Erhaltung der bestehenden Gruppen, weiter die Kinder,- und Jugendarbeit innerhalb der Gemeinde Neuhäusel.
-Zu den Aufgaben gehören insbesondere:
-* Sicherung der Qualität der pädagogischen Arbeit
-* Hilfe bei der Beschaffung von Ausrüstungsgegenständen und Spielgeräten
-* Förderung von Veranstaltungen
-* Einzelbeihilfen in besonderen Fällen
+(1) Zwecke des Vereins sind
+1. die Förderung der Erziehung, der Kinder- und Jugendhilfe,
+2. die Unterstützung von Kindern, die wegen ihres körperlichen, geistigen oder seelischen Zustands oder wegen ihrer wirtschaftlichen Lage auf die Hilfe anderer angewiesen sind.
+
+(2) Die Satzungszwecke werden insbesondere verwirklicht durch:
+- die ideelle und finanzielle Unterstützung der pädagogischen Arbeit der Kindertagesstätte Wichtelhaus in Neuhäusel,
+- die Förderung der Zusammenarbeit zwischen Eltern, pädagogischen Fachkräften und dem Träger der Kindertagesstätte,
+- die Beschaffung und Bereitstellung von Spiel-, Lern- und Ausstattungsgegenständen,
+- die Förderung pädagogischer und gemeinschaftlicher Veranstaltungen,
+- die Unterstützung von Projekten der Kinder- und Jugendarbeit in der Gemeinde Neuhäusel,
+- die Unterstützung hilfsbedürftiger Kinder der Kindertagesstätte, insbesondere durch die Übernahme von Kosten für Ausflüge, Veranstaltungen, Verpflegung oder Material.
 
 ## 3 Gemeinnützigkeit
 
