@@ -58,7 +58,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (4) Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn dies das Vereinsinteresse erfordert oder wenn mindestens ein Zehntel der Mitglieder dies unter Angabe des Zwecks und der Gründe in Textform verlangt.
 
-(5) Die Mitgliederversammlung wird vom/von der Vorsitzenden, bei dessen/deren Verhinderung vom/von der stellvertretenden Vorsitzenden geleitet.
+(5) Die Mitgliederversammlung wird von dem/der 1. Vorsitzenden, bei Verhinderung von dem/der 2. Vorsitzenden geleitet. Sind beide verhindert, wählt die Mitgliederversammlung eine/n Versammlungsleiter/in.
 
 (6) Die Mitgliederversammlung kann als Präsenzversammlung, als hybride Versammlung oder, soweit die gesetzlichen Voraussetzungen erfüllt sind, als virtuelle Versammlung durchgeführt werden. In der Einladung ist anzugeben, wie die Mitglieder ihre Rechte im Wege der elektronischen Kommunikation ausüben können.
 
