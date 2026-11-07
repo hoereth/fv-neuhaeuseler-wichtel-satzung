@@ -97,7 +97,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 ## 7 Satzungsänderungen
 
-Satzungsänderungen können durch die Mitgliederversammlung mit 2/3 Mehrheit der anwesenden stimmberechtigten Mitglieder beschlossen werden.
+Satzungsänderungen können durch die Mitgliederversammlung mit einer Mehrheit von 2/3 der abgegebenen gültigen Stimmen beschlossen werden. Über eine Satzungsänderung kann nur abgestimmt werden, wenn sie in der Einladung zur Mitgliederversammlung unter Angabe der zu ändernden Bestimmungen angekündigt wurde.
 Die Satzungsänderungen, die vom Finanzamt zum Erlangen oder zum Erhalt der Gemeinnützigkeit gefordert werden sowie vom Amtsgericht zur Eintragung ins Vereinsregister verlangt werden, können vom Vorstand ohne erneute Befragung der Mitgliederversammlung vorgenommen werden.
 Diese Änderungen sind auf der nächsten Mitgliederversammlung vorzutragen.
 
@@ -109,7 +109,7 @@ Es werden Mitgliedsbeiträge erhoben, die jeweils für ein Geschäftsjahr im Vor
 Liegt ein SEPA-Lastschriftmandat vor, so wird der Beitrag im Januar eines jeden Jahres eingezogen.
 Wird eine Lastschrift aus Gründen, die das Mitglied zu vertreten hat, nicht eingelöst oder zurückgegeben, insbesondere wegen mangelnder Kontodeckung, eines erloschenen Kontos, einer nicht mitgeteilten Änderung der Bankverbindung oder eines unberechtigten Widerspruchs, so hat das Mitglied den Beitrag zuzüglich der dem Verein dadurch entstehenden Bankgebühren zu überweisen.
 Jedes Mitglied legt die Höhe seines jährlichen Mitgliedsbeitrags selbst fest. Darüber hinaus können freiwillig weitere Beiträge geleistet werden.
-Bei Eintritt/Austritt während des laufenden Geschäftsjahres wird der volle Mitgliedsbeitrag fällig bzw. einbehalten.
+Bei Eintritt während des laufenden Geschäftsjahres ist der Mitgliedsbeitrag für dieses Geschäftsjahr anteilig zu entrichten. Er beträgt für jeden Kalendermonat ab dem Monat des Beitritts (einschließlich) bis zum Ende des Geschäftsjahres ein Zwölftel des jährlichen Mitgliedsbeitrags.
 Bei Nichtzahlung des Mitgliedsbeitrages trotz zweimaliger Mahnung kann der Vorstand den Ausschluss eines Mitglieds beschließen.
 
 
@@ -150,7 +150,7 @@ Der Vorstand hat das Recht, bei größeren Zuwendungen oder Überschüssen eine 
 
 ## 12 Auflösung/Wegfall des steuerbegünstigten Zwecks
 
-Die Auflösung des Vereins kann nur von einer zu diesem Zweck einberufenen außerordentlichen Mitgliederversammlung mit 3/4 Mehrheit der anwesenden stimmberechtigten Mitglieder beschlossen werden.
+Die Auflösung des Vereins kann nur von einer zu diesem Zweck einberufenen außerordentlichen Mitgliederversammlung mit einer Mehrheit von 3/4 der abgegebenen gültigen Stimmen beschlossen werden.
 Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die Gemeinde Neuhäusel, die es unmittelbar und ausschließlich für gemeinnützige Zwecke, Kinder und Jugendarbeit betreffend, nach Möglichkeit für die Kindertagesstätte Wichtelhaus Neuhäusel, zu verwenden hat.
 Die aus den Geldern angeschafften Sachwerte können den Einrichtungen nicht entzogen werden.
 
