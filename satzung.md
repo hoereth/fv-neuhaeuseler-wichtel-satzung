@@ -109,7 +109,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (4) Jedes Mitglied legt die Höhe seines jährlichen Mitgliedsbeitrags selbst fest. Dieser darf den von der Mitgliederversammlung festgesetzten Mindestbeitrag nicht unterschreiten. Darüber hinaus können freiwillig weitere Beiträge geleistet werden.
 
-(5) Bei Eintritt während des laufenden Geschäftsjahres ist der Mitgliedsbeitrag für dieses Geschäftsjahr anteilig zu entrichten. Er beträgt für jeden Kalendermonat ab dem Monat des Beitritts (einschließlich) bis zum Ende des Geschäftsjahres ein Zwölftel des jährlichen Mitgliedsbeitrags. Bei Austritt während des laufenden Geschäftsjahres wird der volle Mitgliedsbeitrag einbehalten.
+(5) Bei Eintritt während des laufenden Geschäftsjahres ist der Mitgliedsbeitrag für dieses Geschäftsjahr anteilig zu entrichten. Er beträgt für jeden Kalendermonat ab dem Monat des Beitritts (einschließlich) bis zum Ende des Geschäftsjahres ein Zwölftel des jährlichen Mitgliedsbeitrags.
 
 (6) Bei Nichtzahlung des Mitgliedsbeitrages trotz zweimaliger Mahnung kann der Vorstand den Ausschluss eines Mitglieds beschließen.
 
