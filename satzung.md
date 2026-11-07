@@ -74,7 +74,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (12) Die Mitgliederversammlung ist insbesondere zuständig für:
 
-* Satzungsänderungen, hierüber entscheidet die Mitgliederversammlung mit 2/3-Mehrheit der anwesenden stimmberechtigten Mitglieder,
+* Satzungsänderungen
 * die Entgegennahme des Jahresberichts des Vorstands,
 * die Entgegennahme des Kassenberichts,
 * die Entgegennahme des Berichts der Kassenprüfer/innen,
