@@ -41,7 +41,7 @@
 
 Mitglied des Vereins kann jede volljährige natürliche Person werden.
 
-Der Aufnahmeantrag ist in Textform an den Vorstand zu richten. Mit dem Aufnahmeantrag teilt das Mitglied zugleich die von ihm selbst gewählte Höhe des jährlichen Mitgliedsbeitrags mit, die den von der Mitgliederversammlung festgesetzten Mindestbeitrag nicht unterschreiten darf.
+Der Aufnahmeantrag ist in Textform an den Vorstand zu richten. Mit dem Aufnahmeantrag teilt das Mitglied zugleich die von ihm selbst gewählte Höhe des jährlichen Mitgliedsbeitrags mit.
 
 Die Aufnahme erfolgt durch Beschluss des Vorstands. Ein Anspruch auf Aufnahme besteht nicht. Eine Ablehnung muss nicht begründet werden.
 
@@ -108,7 +108,7 @@ Er prüft auch, Zuwendungen aus öffentlichen Mitteln zu erhalten.
 Es werden Mitgliedsbeiträge erhoben, die jeweils für ein Geschäftsjahr im Voraus zu entrichten sind.
 Liegt ein SEPA-Lastschriftmandat vor, so wird der Beitrag im Januar eines jeden Jahres eingezogen.
 Wird eine Lastschrift aus Gründen, die das Mitglied zu vertreten hat, nicht eingelöst oder zurückgegeben, insbesondere wegen mangelnder Kontodeckung, eines erloschenen Kontos, einer nicht mitgeteilten Änderung der Bankverbindung oder eines unberechtigten Widerspruchs, so hat das Mitglied den Beitrag zuzüglich der dem Verein dadurch entstehenden Bankgebühren zu überweisen.
-Jedes Mitglied legt die Höhe seines jährlichen Mitgliedsbeitrags selbst fest. Dieser darf den von der Mitgliederversammlung festgesetzten Mindestbeitrag nicht unterschreiten. Darüber hinaus können freiwillig weitere Beiträge geleistet werden.
+Jedes Mitglied legt die Höhe seines jährlichen Mitgliedsbeitrags selbst fest. Darüber hinaus können freiwillig weitere Beiträge geleistet werden.
 Bei Eintritt/Austritt während des laufenden Geschäftsjahres wird der volle Mitgliedsbeitrag fällig bzw. einbehalten.
 Bei Nichtzahlung des Mitgliedsbeitrages trotz zweimaliger Mahnung kann der Vorstand den Ausschluss eines Mitglieds beschließen.
 
