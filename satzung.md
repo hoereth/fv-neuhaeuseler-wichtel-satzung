@@ -165,4 +165,4 @@ Die aus den Geldern angeschafften Sachwerte können den Einrichtungen nicht entz
 
 ## 14 Inkrafttreten der Satzung
 
-Vorstehender Satzungsinhalt wurde von der Gründungsversammlung am 28.09.2011 beschlossen.
+Die ursprüngliche Satzung wurde von der Gründungsversammlung am 28.09.2011 beschlossen. Die vorstehende Neufassung der Satzung wurde von der Mitgliederversammlung am 23.11.2026 beschlossen.
