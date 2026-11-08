@@ -6,7 +6,7 @@
 
 (2) Der Verein hat seinen Sitz in Neuhäusel.
 
-(3) Der Verein ist in das Vereinsregister beim Amtsgericht Montabaur unter der Nummer VR 200678 eingetragen.
+(3) Der Verein ist in das Vereinsregister beim Amtsgericht Montabaur unter der Nummer VR 20678 eingetragen.
 
 (4) Geschäftsjahr ist das Kalenderjahr.
 
