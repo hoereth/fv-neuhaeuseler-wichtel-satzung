@@ -80,7 +80,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (10) Bei der Beschlussfassung entscheidet die einfache Mehrheit der abgegebenen gültigen Stimmen, soweit diese Satzung nichts Abweichendes bestimmt. Stimmenthaltungen werden nicht als abgegebene Stimmen gewertet.
 
-(11) Über die Mitgliederversammlung ist ein Protokoll zu führen. Das Protokoll ist vom/von der Versammlungsleiter/in und vom/von der Protokollführer/in zu unterzeichnen.
+(11) Über die Mitgliederversammlung ist ein Protokoll zu führen. Das Protokoll ist von Versammlungsleiter/in und Protokollführer/in zu unterzeichnen.
 
 (12) Die Mitgliederversammlung ist insbesondere zuständig für:
 
