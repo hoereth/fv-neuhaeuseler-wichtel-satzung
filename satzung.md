@@ -113,7 +113,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (5) Bei Eintritt während des laufenden Geschäftsjahres ist der Mitgliedsbeitrag für dieses Geschäftsjahr anteilig zu entrichten. Er beträgt für jeden Kalendermonat ab dem Monat des Beitritts (einschließlich) bis zum Ende des Geschäftsjahres ein Zwölftel des jährlichen Mitgliedsbeitrags.
 
-(6) Ist ein Mitglied trotz zweimaliger Mahnung in Textform mit der Zahlung des Mitgliedsbeitrags im Rückstand, kann der Vorstand die Streichung des Mitglieds von der Mitgliederliste beschließen. Die Streichung darf erst beschlossen werden, wenn seit Absendung der zweiten Mahnung ein Monat vergangen ist und in dieser Mahnung auf die Streichung hingewiesen wurde. Mit der Streichung endet die Mitgliedschaft; das Verfahren nach § 4 (6) findet keine Anwendung. Die Streichung ist dem Mitglied in Textform mitzuteilen.
+(6) Bei Nichtzahlung des Mitgliedsbeitrages trotz zweimaliger Mahnung kann der Vorstand den Ausschluss eines Mitglieds beschließen.
 
 ## § 9 Vorstand
 
