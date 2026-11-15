@@ -49,7 +49,7 @@
 
 (5) Der Austritt ist gegenüber dem Vorstand in Textform zu erklären. Der Austritt ist jederzeit möglich und ist an keine Frist gebunden. Die Beitragspflicht endet mit Ablauf des Geschäftsjahres, in welchem die Mitgliedschaft endet.
 
-(6) Ein Mitglied kann aus wichtigem Grund durch Beschluss des Vorstands aus dem Verein ausgeschlossen werden. Ein wichtiger Grund liegt insbesondere vor, wenn ein Mitglied schuldhaft in erheblicher Weise gegen die Interessen oder Zwecke des Vereins verstößt. Vor der Entscheidung über den Ausschluss ist dem Mitglied Gelegenheit zur Stellungnahme zu geben. Die Entscheidung ist dem Mitglied in Textform mitzuteilen. Gegen den Ausschluss kann das Mitglied innerhalb eines Monats nach Zugang der Entscheidung Einspruch einlegen. Über den Einspruch entscheidet die nächste Mitgliederversammlung endgültig.
+(6) Ein Mitglied kann aus wichtigem Grund durch Beschluss des Vorstands aus dem Verein ausgeschlossen werden. Ein wichtiger Grund liegt insbesondere vor, wenn ein Mitglied schuldhaft in erheblicher Weise gegen die Interessen oder Zwecke des Vereins verstößt. Vor der Entscheidung über den Ausschluss ist dem Mitglied Gelegenheit zur Stellungnahme zu geben. Die Entscheidung ist dem Mitglied in Textform mitzuteilen. Gegen den Ausschluss kann das Mitglied innerhalb eines Monats nach Zugang der Entscheidung Einspruch einlegen. Über den Einspruch entscheidet die nächste Mitgliederversammlung endgültig. Bis zu dieser Entscheidung ruhen die Mitgliedschaftsrechte des betroffenen Mitglieds.
 
 (7) Ehrenmitglieder können solche Personen werden, die sich in besonderer Weise um den Förderverein verdient gemacht haben. Ernennung erfolgt durch Beschluss der Mitgliederversammlung. Ehrenmitglieder sind beitragsfrei.
 
@@ -113,7 +113,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (5) Bei Eintritt während des laufenden Geschäftsjahres ist der Mitgliedsbeitrag für dieses Geschäftsjahr anteilig zu entrichten. Er beträgt für jeden Kalendermonat ab dem Monat des Beitritts (einschließlich) bis zum Ende des Geschäftsjahres ein Zwölftel des jährlichen Mitgliedsbeitrags.
 
-(6) Bei Nichtzahlung des Mitgliedsbeitrages trotz zweimaliger Mahnung kann der Vorstand den Ausschluss eines Mitglieds beschließen.
+(6) Ist ein Mitglied trotz zweimaliger Mahnung in Textform mit der Zahlung des Mitgliedsbeitrags im Rückstand, kann der Vorstand die Streichung des Mitglieds von der Mitgliederliste beschließen. Die Streichung darf erst beschlossen werden, wenn seit Absendung der zweiten Mahnung ein Monat vergangen ist und in dieser Mahnung auf die Streichung hingewiesen wurde. Mit der Streichung endet die Mitgliedschaft; das Verfahren nach § 4 (6) findet keine Anwendung. Die Streichung ist dem Mitglied in Textform mitzuteilen.
 
 ## § 9 Vorstand
 
@@ -144,8 +144,6 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 (5) Über die Sitzung des Vorstands ist ein Protokoll zu führen, das vom Versammlungsleiter und Schriftführer zu unterzeichnen ist.
 
 (6) Alle Vorstandsmitglieder arbeiten ehrenamtlich und erhalten lediglich ihre nachgewiesenen Auslagen erstattet.
-
-(7) Der Vorstand hat das Recht, bei größeren Zuwendungen oder Überschüssen eine Stiftung zu gründen.
 
 ## § 11 Auflösung/Wegfall des steuerbegünstigten Zwecks
 
