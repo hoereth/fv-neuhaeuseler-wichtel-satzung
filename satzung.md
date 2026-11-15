@@ -125,7 +125,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (4) Scheidet ein Mitglied des Vorstandes während der Amtsperiode aus, kann der Vorstand für die Dauer der restlichen Amtsdauer ein Ersatzmitglied berufen.
 
-(5) Der/die 1. Vorsitzende, der/die 2. Vorsitzende, der/die Schriftführer(in) und der/die Kassenführer(in) sind Vorstand im Sinne des § 26 BGB. Je zwei von ihnen sind gemeinsam vertretungs- und zeichnungsberechtigt.
+(5) Der/die 1. Vorsitzende, der/die 2. Vorsitzende, der/die Schriftführer(in) und der/die Kassenführer(in) sind Vorstand im Sinne des § 26 BGB. Je zwei von ihnen sind gemeinsam vertretungsberechtigt.
 
 ## § 10 Geschäftsführung des Vorstandes
 
