@@ -99,7 +99,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (1) Satzungsänderungen können durch die Mitgliederversammlung mit einer Mehrheit von 2/3 der abgegebenen gültigen Stimmen beschlossen werden. Über eine Satzungsänderung kann nur abgestimmt werden, wenn sie in der Einladung zur Mitgliederversammlung unter Angabe der zu ändernden Bestimmungen angekündigt wurde.
 
-(2) Die Satzungsänderungen, die vom Finanzamt zum Erlangen oder zum Erhalt der Gemeinnützigkeit gefordert werden sowie vom Amtsgericht zur Eintragung ins Vereinsregister verlangt werden, können vom Vorstand ohne erneute Befragung der Mitgliederversammlung vorgenommen werden. Diese Änderungen sind auf der nächsten Mitgliederversammlung vorzutragen.
+(2) Die Satzungsänderungen, die vom Finanzamt zum Erlangen oder zum Erhalt der Gemeinnützigkeit gefordert werden oder vom Amtsgericht zur Eintragung ins Vereinsregister verlangt werden, können vom Vorstand ohne erneute Befragung der Mitgliederversammlung vorgenommen werden. Diese Änderungen sind auf der nächsten Mitgliederversammlung vorzutragen.
 
 ## § 8 Finanzierung
 
