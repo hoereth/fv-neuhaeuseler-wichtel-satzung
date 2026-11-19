@@ -45,7 +45,7 @@
 
 (3) Die Aufnahme erfolgt durch Beschluss des Vorstands. Ein Anspruch auf Aufnahme besteht nicht. Eine Ablehnung muss nicht begründet werden.
 
-(4) Änderungen der dem Verein mitgeteilten Kontaktdaten, der Bankverbindung und der Höhe des Mitgliedsbeitrags sind dem Vorstand schriftlich mitzuteilen. Änderungen des Mitgliedsbeitrags werden ab dem folgenden Geschäftsjahr wirksam.
+(4) Änderungen der dem Verein mitgeteilten Kontaktdaten, der Bankverbindung und der Höhe des Mitgliedsbeitrags sind dem Vorstand in Textform mitzuteilen. Änderungen des Mitgliedsbeitrags werden ab dem folgenden Geschäftsjahr wirksam.
 
 (5) Der Austritt ist gegenüber dem Vorstand in Textform zu erklären. Der Austritt ist jederzeit möglich und ist an keine Frist gebunden. Die Beitragspflicht endet mit Ablauf des Geschäftsjahres, in welchem die Mitgliedschaft endet.
 
