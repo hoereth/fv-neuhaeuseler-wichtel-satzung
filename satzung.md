@@ -41,7 +41,7 @@
 
 (1) Mitglied des Vereins kann jede volljährige natürliche Person werden.
 
-(2) Der Aufnahmeantrag ist in Textform an den Vorstand zu richten. Mit dem Aufnahmeantrag teilt das Mitglied zugleich die von ihm selbst gewählte Höhe des jährlichen Mitgliedsbeitrags mit.
+(2) Der Aufnahmeantrag ist in Textform an den Vorstand zu richten. Mit dem Aufnahmeantrag teilt der/die Antragsteller/in zugleich die von ihm/ihr selbst gewählte Höhe des jährlichen Mitgliedsbeitrags mit.
 
 (3) Die Aufnahme erfolgt durch Beschluss des Vorstands. Ein Anspruch auf Aufnahme besteht nicht. Eine Ablehnung muss nicht begründet werden.
 
