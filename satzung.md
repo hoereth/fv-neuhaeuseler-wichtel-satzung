@@ -49,7 +49,7 @@
 
 (5) Der Austritt ist gegenüber dem Vorstand in Textform zu erklären. Der Austritt ist jederzeit möglich und ist an keine Frist gebunden. Die Beitragspflicht endet mit Ablauf des Geschäftsjahres, in welchem die Mitgliedschaft endet.
 
-(6) Ein Mitglied kann aus wichtigem Grund durch Beschluss des Vorstands aus dem Verein ausgeschlossen werden. Ein wichtiger Grund liegt insbesondere vor, wenn ein Mitglied schuldhaft in erheblicher Weise gegen die Interessen oder Zwecke des Vereins verstößt. Vor der Entscheidung über den Ausschluss ist dem Mitglied Gelegenheit zur Stellungnahme zu geben. Die Entscheidung ist dem Mitglied in Textform mitzuteilen. Gegen den Ausschluss kann das Mitglied innerhalb eines Monats nach Zugang der Entscheidung Einspruch einlegen. Über den Einspruch entscheidet die nächste Mitgliederversammlung endgültig.
+(6) Ein Mitglied kann aus wichtigem Grund durch Beschluss des Vorstands aus dem Verein ausgeschlossen werden. Ein wichtiger Grund liegt insbesondere vor, wenn ein Mitglied schuldhaft in erheblicher Weise gegen die Interessen oder Zwecke des Vereins verstößt. Vor der Entscheidung über den Ausschluss ist dem Mitglied Gelegenheit zur Stellungnahme zu geben. Die Entscheidung ist dem Mitglied in Textform mitzuteilen. Gegen den Ausschluss kann das Mitglied innerhalb eines Monats nach Zugang der Entscheidung Einspruch einlegen. Über den Einspruch entscheidet die nächste Mitgliederversammlung endgültig. Bis zu dieser Entscheidung ruhen die Mitgliedschaftsrechte des betroffenen Mitglieds.
 
 (7) Ehrenmitglieder können solche Personen werden, die sich in besonderer Weise um den Förderverein verdient gemacht haben. Ernennung erfolgt durch Beschluss der Mitgliederversammlung. Ehrenmitglieder sind beitragsfrei.
 
@@ -119,13 +119,13 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (1) Der Vorstand besteht aus: dem/der 1. Vorsitzenden, dem/der 2. Vorsitzenden, dem/der Schriftführer/in und dem/der Kassenführer/in.
 
-(2) Die Mitgliederversammlung kann durch einfache Mehrheit beschließen, dass dazu eine Anzahl Beisitzer/innen dem Vorstand beitreten, davon möglichst ein/e Mitarbeiter/in des Kindergartens und möglichst ein/e Elternvertreter/in. Die Beisitzer/innen haben beratende Funktion ohne Stimmrecht.
+(2) Die Mitgliederversammlung kann durch einfache Mehrheit beschließen, dass zusätzlich eine Anzahl Beisitzer gewählt wird, davon möglichst ein/e Mitarbeiter/in des Kindergartens und möglichst ein/e Elternvertreter/in. Die Beisitzer gehören dem Vorstand nicht an; sie nehmen an dessen Sitzungen mit beratender Funktion ohne Stimmrecht teil.
 
 (3) Der Vorstand und die Beisitzer/innen werden von der Mitgliederversammlung jeweils für 2 Jahre gewählt. Die Amtszeit beginnt mit der Annahme der Wahl. Die Amtszeit eines Vorstandsmitglieds verlängert sich bis zum Amtsantritt des/der Nachfolger/in. Wiederwahl ist zulässig.
 
 (4) Scheidet ein Mitglied des Vorstandes während der Amtsperiode aus, kann der Vorstand für die Dauer der restlichen Amtsdauer ein Ersatzmitglied berufen.
 
-(5) Der/die 1. Vorsitzende, der/die 2. Vorsitzende, der/die Schriftführer/in und der/die Kassenführer/in sind Vorstand im Sinne des § 26 BGB. Je zwei von ihnen sind gemeinsam vertretungs- und zeichnungsberechtigt.
+(5) Der/die 1. Vorsitzende, der/die 2. Vorsitzende, der/die Schriftführer/in und der/die Kassenführer/in sind Vorstand im Sinne des § 26 BGB. Je zwei von ihnen sind gemeinsam vertretungsberechtigt.
 
 ## § 10 Geschäftsführung des Vorstandes
 
@@ -135,17 +135,15 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 * Wahrnehmung der Aufgaben gemäß § 2 der Satzung
 * Kassenführung und Erstellung des Jahresberichtes
 
-(2) Der Vorstand beschließt in Sitzungen. Zu den Sitzungen ist schriftlich unter Beachtung einer Mindestfrist von sieben Tagen durch den/die 1. Vorsitzende/n oder den/die Stellvertreter/in einzuladen. Der/die 1. Vorsitzende leitet die Sitzungen und beruft sie ein. Bei dessen/deren Verhinderung tritt an seine/ihre Stelle der/die 2. Vorsitzende. Eine Sitzung ist unverzüglich einzuberufen, wenn mindestens zwei Vorstandsmitglieder dies verlangen.
+(2) Der Vorstand beschließt in Sitzungen. Der/die 1. Vorsitzende beruft die Sitzungen in Textform unter Beachtung einer Mindestfrist von sieben Tagen ein und leitet sie. Bei dessen/deren Verhinderung tritt an seine/ihre Stelle der/die 2. Vorsitzende. Eine Sitzung ist unverzüglich einzuberufen, wenn mindestens zwei Vorstandsmitglieder dies verlangen.
 
-(3) Beschlüsse des Vorstands werden mit einfacher Mehrheit gefasst. Bei Stimmengleichheit gilt der Antrag als abgelehnt. Der Vorstand ist beschlussfähig, wenn mindestens zwei Vorstandsmitglieder, darunter eine/r der beiden Vorsitzenden anwesend sind. Ein Beschluss des Vorstands kann auch schriftlich oder fernmündlich gefasst werden, wenn kein Vorstandsmitglied widerspricht.
+(3) Beschlüsse des Vorstands werden mit einfacher Mehrheit gefasst. Bei Stimmengleichheit gilt der Antrag als abgelehnt. Der Vorstand ist beschlussfähig, wenn mindestens zwei Vorstandsmitglieder, darunter eine/r der beiden Vorsitzenden anwesend sind. Ein Beschluss des Vorstands kann auch in Textform oder fernmündlich gefasst werden, wenn kein Vorstandsmitglied widerspricht.
 
-(4) Der/die Kassenführer/in verwaltet die Vereinskasse und führt Buch über die Einnahmen und Ausgaben und verwaltet Barkasse sowie Bankvermögen des Vereins. Er/Sie leistet Auszahlungen, bei Beträgen über 200,00€ nur nach Entscheidung des gesamten geschäftsführenden Vorstandes.
+(4) Der/die Kassenführer/in verwaltet die Vereinskasse und führt Buch über die Einnahmen und Ausgaben und verwaltet Barkasse sowie Bankvermögen des Vereins. Er/Sie leistet Auszahlungen, bei Beträgen über 200 € nur aufgrund eines Vorstandsbeschlusses.
 
-(5) Über die Sitzung des Vorstands ist ein Protokoll zu führen, dass von Versammlungsleiter/in und Schriftführer/in zu unterzeichnen ist.
+(5) Über die Sitzung des Vorstands ist ein Protokoll zu führen, das von Versammlungsleiter/in und Schriftführer/in zu unterzeichnen ist.
 
 (6) Alle Vorstandsmitglieder arbeiten ehrenamtlich und erhalten lediglich ihre nachgewiesenen Auslagen erstattet.
-
-(7) Der Vorstand hat das Recht, bei größeren Zuwendungen oder Überschüssen eine Stiftung zu gründen.
 
 ## § 11 Auflösung/Wegfall des steuerbegünstigten Zwecks
 
