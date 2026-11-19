@@ -143,19 +143,19 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (6) Alle Vorstandsmitglieder arbeiten ehrenamtlich und erhalten lediglich ihre nachgewiesenen Auslagen erstattet.
 
-## § 11 Auflösung/Wegfall des steuerbegünstigten Zwecks
-
-(1) Die Auflösung des Vereins kann durch die Mitgliederversammlung mit einer Mehrheit von 3/4 der abgegebenen gültigen Stimmen beschlossen werden. Über die Auflösung kann nur abgestimmt werden, wenn sie in der Einladung zur Mitgliederversammlung angekündigt wurde.
-
-(2) Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die Gemeinde Neuhäusel, die es unmittelbar und ausschließlich für steuerbegünstigte Zwecke der Förderung der Erziehung sowie der Jugendhilfe, nach Möglichkeit für die Kindertagesstätte Wichtelhaus Neuhäusel, zu verwenden hat.
-
-## § 12 Kassenprüfung
+## § 11 Kassenprüfung
 
 (1) Die Mitgliederversammlung wählt zwei Kassenprüfer/innen für die Dauer von zwei Jahren. Eine/r der beiden Kassenprüfer/innen kann wiedergewählt werden. Kein/e Kassenprüfer/in darf über die Amtszeit von vier Jahren hinaus wiedergewählt werden. Kassenprüfer/innen dürfen nicht dem Vorstand angehören und nicht mit der laufenden Kassenführung befasst sein.
 
 (2) Die Kassenprüfer/innen prüfen nach Abschluss des Geschäftsjahres und vor der ordentlichen Mitgliederversammlung die Ordnungsmäßigkeit der Kassen- und Buchführung sowie die satzungsgemäße Verwendung der Mittel.
 
 (3) Die Kassenprüfer/innen berichten der Mitgliederversammlung über das Ergebnis ihrer Prüfung und beantragen bei ordnungsgemäßer Kassenführung die Entlastung des Vorstands.
+
+## § 12 Auflösung/Wegfall des steuerbegünstigten Zwecks
+
+(1) Die Auflösung des Vereins kann durch die Mitgliederversammlung mit einer Mehrheit von 3/4 der abgegebenen gültigen Stimmen beschlossen werden. Über die Auflösung kann nur abgestimmt werden, wenn sie in der Einladung zur Mitgliederversammlung angekündigt wurde.
+
+(2) Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die Gemeinde Neuhäusel, die es unmittelbar und ausschließlich für steuerbegünstigte Zwecke der Förderung der Erziehung sowie der Jugendhilfe, nach Möglichkeit für die Kindertagesstätte Wichtelhaus Neuhäusel, zu verwenden hat.
 
 ## § 13 Inkrafttreten der Satzung
 
