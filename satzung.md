@@ -51,7 +51,7 @@
 
 (6) Ein Mitglied kann aus wichtigem Grund durch Beschluss des Vorstands aus dem Verein ausgeschlossen werden. Ein wichtiger Grund liegt insbesondere vor, wenn ein Mitglied schuldhaft in erheblicher Weise gegen die Interessen oder Zwecke des Vereins verstößt oder trotz zweimaliger Mahnung mit der Zahlung des Mitgliedsbeitrags im Rückstand ist. Vor der Entscheidung über den Ausschluss ist dem Mitglied Gelegenheit zur Stellungnahme zu geben. Die Entscheidung ist dem Mitglied in Textform mitzuteilen. Gegen den Ausschluss kann das Mitglied innerhalb eines Monats nach Zugang der Entscheidung Einspruch in Textform gegenüber dem Vorstand einlegen. Über den Einspruch entscheidet die nächste Mitgliederversammlung endgültig. Bis zu dieser Entscheidung ruhen die Mitgliedschaftsrechte des betroffenen Mitglieds.
 
-(7) Ehrenmitglieder können solche Personen werden, die sich in besonderer Weise um den Förderverein verdient gemacht haben. Ernennung erfolgt durch Beschluss der Mitgliederversammlung. Ehrenmitglieder sind beitragsfrei.
+(7) Ehrenmitglieder können solche Personen werden, die sich in besonderer Weise um den Verein verdient gemacht haben. Ernennung erfolgt durch Beschluss der Mitgliederversammlung. Ehrenmitglieder sind beitragsfrei.
 
 ## § 5 Organe des Vereins
 
