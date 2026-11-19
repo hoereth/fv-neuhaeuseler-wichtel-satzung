@@ -151,8 +151,6 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (2) Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die Gemeinde Neuhäusel, die es unmittelbar und ausschließlich für steuerbegünstigte Zwecke der Förderung der Erziehung sowie der Kinder- und Jugendhilfe, nach Möglichkeit für die Kindertagesstätte Wichtelhaus Neuhäusel, zu verwenden hat.
 
-(3) Die aus den Geldern angeschafften Sachwerte können den Einrichtungen nicht entzogen werden.
-
 ## § 12 Kassenprüfung
 
 (1) Die Mitgliederversammlung wählt zwei Kassenprüfer/innen für die Dauer von zwei Jahren. Einer der beiden Kassenprüfer(innen) kann wiedergewählt werden. Kein Kassenprüfer darf über die Amtszeit von 4 Jahren hinaus wiedergewählt werden. Kassenprüfer/innen dürfen nicht dem Vorstand angehören und nicht mit der laufenden Kassenführung befasst sein.
