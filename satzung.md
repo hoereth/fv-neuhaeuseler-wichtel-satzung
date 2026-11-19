@@ -103,7 +103,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 ## § 8 Finanzierung
 
-(1) Der Verein finanziert sich aus Mitgliedsbeiträgen, Spenden und Zuwendungen. Er prüft auch, Zuwendungen aus öffentlichen Mitteln zu erhalten.
+(1) Der Verein finanziert sich aus Mitgliedsbeiträgen, Spenden und Zuwendungen.
 
 (2) Es werden Mitgliedsbeiträge erhoben, die jeweils für ein Geschäftsjahr im Voraus zu entrichten sind.
 
