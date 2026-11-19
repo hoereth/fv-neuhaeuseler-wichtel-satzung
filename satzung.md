@@ -80,7 +80,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (10) Bei der Beschlussfassung entscheidet die einfache Mehrheit der abgegebenen gültigen Stimmen, soweit diese Satzung nichts Abweichendes bestimmt. Stimmenthaltungen werden nicht als abgegebene Stimmen gewertet.
 
-(11) Über die Mitgliederversammlung ist ein Protokoll zu führen. Das Protokoll ist vom/von der Versammlungsleiter/in und vom/von der Protokollführer/in zu unterzeichnen.
+(11) Über die Mitgliederversammlung ist ein Protokoll zu führen. Das Protokoll ist von Versammlungsleiter/in und Protokollführer/in zu unterzeichnen.
 
 (12) Die Mitgliederversammlung ist insbesondere zuständig für:
 
@@ -117,15 +117,15 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 ## § 9 Vorstand
 
-(1) Der Vorstand besteht aus: dem/der 1. Vorsitzenden, dem/der 2. Vorsitzenden, dem/der Schriftführer(in) und dem/der Kassenführer(in).
+(1) Der Vorstand besteht aus: dem/der 1. Vorsitzenden, dem/der 2. Vorsitzenden, dem/der Schriftführer/in und dem/der Kassenführer/in.
 
-(2) Die Mitgliederversammlung kann durch einfache Mehrheit beschließen, dass zusätzlich eine Anzahl Beisitzer gewählt wird, davon möglichst ein(e) Mitarbeiter(in) des Kindergartens und möglichst ein(e) Elternvertreter(in). Die Beisitzer gehören dem Vorstand nicht an; sie nehmen an dessen Sitzungen mit beratender Funktion ohne Stimmrecht teil.
+(2) Die Mitgliederversammlung kann durch einfache Mehrheit beschließen, dass zusätzlich eine Anzahl Beisitzer gewählt wird, davon möglichst ein/e Mitarbeiter/in des Kindergartens und möglichst ein/e Elternvertreter/in. Die Beisitzer gehören dem Vorstand nicht an; sie nehmen an dessen Sitzungen mit beratender Funktion ohne Stimmrecht teil.
 
-(3) Der Vorstand und die Beisitzer werden von der Mitgliederversammlung jeweils für 2 Jahre gewählt. Die Amtszeit beginnt mit der Annahme der Wahl. Die Amtszeit eines Vorstandsmitglieds verlängert sich bis zum Amtsantritt seines Nachfolgers. Wiederwahl ist zulässig.
+(3) Der Vorstand und die Beisitzer/innen werden von der Mitgliederversammlung jeweils für 2 Jahre gewählt. Die Amtszeit beginnt mit der Annahme der Wahl. Die Amtszeit eines Vorstandsmitglieds verlängert sich bis zum Amtsantritt des/der Nachfolger/in. Wiederwahl ist zulässig.
 
 (4) Scheidet ein Mitglied des Vorstandes während der Amtsperiode aus, kann der Vorstand für die Dauer der restlichen Amtsdauer ein Ersatzmitglied berufen.
 
-(5) Der/die 1. Vorsitzende, der/die 2. Vorsitzende, der/die Schriftführer(in) und der/die Kassenführer(in) sind Vorstand im Sinne des § 26 BGB. Je zwei von ihnen sind gemeinsam vertretungsberechtigt.
+(5) Der/die 1. Vorsitzende, der/die 2. Vorsitzende, der/die Schriftführer/in und der/die Kassenführer/in sind Vorstand im Sinne des § 26 BGB. Je zwei von ihnen sind gemeinsam vertretungsberechtigt.
 
 ## § 10 Geschäftsführung des Vorstandes
 
@@ -137,11 +137,11 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (2) Der Vorstand beschließt in Sitzungen. Der/die 1. Vorsitzende beruft die Sitzungen in Textform unter Beachtung einer Mindestfrist von sieben Tagen ein und leitet sie. Bei dessen/deren Verhinderung tritt an seine/ihre Stelle der/die 2. Vorsitzende. Eine Sitzung ist unverzüglich einzuberufen, wenn mindestens zwei Vorstandsmitglieder dies verlangen.
 
-(3) Beschlüsse des Vorstands werden mit einfacher Mehrheit gefasst. Bei Stimmengleichheit gilt der Antrag als abgelehnt. Der Vorstand ist beschlussfähig, wenn mindestens zwei Vorstandsmitglieder, darunter einer der beiden Vorsitzenden anwesend sind. Ein Beschluss des Vorstands kann auch in Textform oder fernmündlich gefasst werden, wenn kein Vorstandsmitglied widerspricht.
+(3) Beschlüsse des Vorstands werden mit einfacher Mehrheit gefasst. Bei Stimmengleichheit gilt der Antrag als abgelehnt. Der Vorstand ist beschlussfähig, wenn mindestens zwei Vorstandsmitglieder, darunter eine/r der beiden Vorsitzenden anwesend sind. Ein Beschluss des Vorstands kann auch in Textform oder fernmündlich gefasst werden, wenn kein Vorstandsmitglied widerspricht.
 
-(4) Der/die Kassenführer(in) verwaltet die Vereinskasse und führt Buch über die Einnahmen und Ausgaben und verwaltet Barkasse sowie Bankvermögen des Vereins. Er leistet Auszahlungen, bei Beträgen über 200 € nur aufgrund eines Vorstandsbeschlusses.
+(4) Der/die Kassenführer/in verwaltet die Vereinskasse und führt Buch über die Einnahmen und Ausgaben und verwaltet Barkasse sowie Bankvermögen des Vereins. Er/Sie leistet Auszahlungen, bei Beträgen über 200 € nur aufgrund eines Vorstandsbeschlusses.
 
-(5) Über die Sitzung des Vorstands ist ein Protokoll zu führen, das vom Versammlungsleiter und Schriftführer zu unterzeichnen ist.
+(5) Über die Sitzung des Vorstands ist ein Protokoll zu führen, das von Versammlungsleiter/in und Schriftführer/in zu unterzeichnen ist.
 
 (6) Alle Vorstandsmitglieder arbeiten ehrenamtlich und erhalten lediglich ihre nachgewiesenen Auslagen erstattet.
 
@@ -155,7 +155,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 ## § 12 Kassenprüfung
 
-(1) Die Mitgliederversammlung wählt zwei Kassenprüfer/innen für die Dauer von zwei Jahren. Einer der beiden Kassenprüfer(innen) kann wiedergewählt werden. Kein Kassenprüfer darf über die Amtszeit von 4 Jahren hinaus wiedergewählt werden. Kassenprüfer/innen dürfen nicht dem Vorstand angehören und nicht mit der laufenden Kassenführung befasst sein.
+(1) Die Mitgliederversammlung wählt zwei Kassenprüfer/innen für die Dauer von zwei Jahren. Eine/r der beiden Kassenprüfer/innen kann wiedergewählt werden. Kein/e Kassenprüfer/in darf über die Amtszeit von 4 Jahren hinaus wiedergewählt werden. Kassenprüfer/innen dürfen nicht dem Vorstand angehören und nicht mit der laufenden Kassenführung befasst sein.
 
 (2) Die Kassenprüfer/innen prüfen nach Abschluss des Geschäftsjahres und vor der ordentlichen Mitgliederversammlung die Ordnungsmäßigkeit der Kassen- und Buchführung sowie die satzungsgemäße Verwendung der Mittel.
 
