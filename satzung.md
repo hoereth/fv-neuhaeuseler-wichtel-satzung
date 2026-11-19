@@ -12,7 +12,7 @@
 
 ## § 2 Vereinszweck
 
-(1) Zwecke des Vereins sind
+(1) Zwecke des Vereins sind:
 1. die Förderung der Erziehung und der Jugendhilfe,
 2. die Unterstützung von Kindern, die wegen ihres körperlichen, geistigen oder seelischen Zustands oder wegen ihrer wirtschaftlichen Lage auf die Hilfe anderer angewiesen sind.
 
