@@ -119,7 +119,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (2) Die Mitgliederversammlung kann durch einfache Mehrheit beschließen, dass zusätzlich eine Anzahl Beisitzer/innen gewählt wird, davon möglichst ein/e Mitarbeiter/in der Kindertagesstätte und möglichst ein/e Elternvertreter/in. Die Beisitzer/innen gehören dem Vorstand nicht an; sie nehmen an dessen Sitzungen mit beratender Funktion ohne Stimmrecht teil.
 
-(3) Der Vorstand und die Beisitzer/innen werden von der Mitgliederversammlung jeweils für 2 Jahre gewählt. Die Amtszeit beginnt mit der Annahme der Wahl. Die Amtszeit eines Vorstandsmitglieds verlängert sich bis zum Amtsantritt seines Nachfolgers/seiner Nachfolgerin. Wiederwahl ist zulässig.
+(3) Der Vorstand und die Beisitzer/innen werden von der Mitgliederversammlung jeweils für zwei Jahre gewählt. Die Amtszeit beginnt mit der Annahme der Wahl. Die Amtszeit eines Vorstandsmitglieds verlängert sich bis zum Amtsantritt seines Nachfolgers/seiner Nachfolgerin. Wiederwahl ist zulässig.
 
 (4) Scheidet ein Mitglied des Vorstandes während der Amtsperiode aus, kann der Vorstand für die Dauer der restlichen Amtsdauer ein Ersatzmitglied berufen.
 
@@ -151,7 +151,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 ## § 12 Kassenprüfung
 
-(1) Die Mitgliederversammlung wählt zwei Kassenprüfer/innen für die Dauer von zwei Jahren. Eine/r der beiden Kassenprüfer/innen kann wiedergewählt werden. Kein/e Kassenprüfer/in darf über die Amtszeit von 4 Jahren hinaus wiedergewählt werden. Kassenprüfer/innen dürfen nicht dem Vorstand angehören und nicht mit der laufenden Kassenführung befasst sein.
+(1) Die Mitgliederversammlung wählt zwei Kassenprüfer/innen für die Dauer von zwei Jahren. Eine/r der beiden Kassenprüfer/innen kann wiedergewählt werden. Kein/e Kassenprüfer/in darf über die Amtszeit von vier Jahren hinaus wiedergewählt werden. Kassenprüfer/innen dürfen nicht dem Vorstand angehören und nicht mit der laufenden Kassenführung befasst sein.
 
 (2) Die Kassenprüfer/innen prüfen nach Abschluss des Geschäftsjahres und vor der ordentlichen Mitgliederversammlung die Ordnungsmäßigkeit der Kassen- und Buchführung sowie die satzungsgemäße Verwendung der Mittel.
 
