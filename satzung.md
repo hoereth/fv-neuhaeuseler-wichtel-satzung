@@ -49,7 +49,7 @@
 
 (5) Der Austritt ist gegenüber dem Vorstand in Textform zu erklären. Der Austritt ist jederzeit möglich und ist an keine Frist gebunden. Die Beitragspflicht endet mit Ablauf des Geschäftsjahres, in welchem die Mitgliedschaft endet.
 
-(6) Ein Mitglied kann aus wichtigem Grund durch Beschluss des Vorstands aus dem Verein ausgeschlossen werden. Ein wichtiger Grund liegt insbesondere vor, wenn ein Mitglied schuldhaft in erheblicher Weise gegen die Interessen oder Zwecke des Vereins verstößt. Vor der Entscheidung über den Ausschluss ist dem Mitglied Gelegenheit zur Stellungnahme zu geben. Die Entscheidung ist dem Mitglied in Textform mitzuteilen. Gegen den Ausschluss kann das Mitglied innerhalb eines Monats nach Zugang der Entscheidung Einspruch einlegen. Über den Einspruch entscheidet die nächste Mitgliederversammlung endgültig. Bis zu dieser Entscheidung ruhen die Mitgliedschaftsrechte des betroffenen Mitglieds.
+(6) Ein Mitglied kann aus wichtigem Grund durch Beschluss des Vorstands aus dem Verein ausgeschlossen werden. Ein wichtiger Grund liegt insbesondere vor, wenn ein Mitglied schuldhaft in erheblicher Weise gegen die Interessen oder Zwecke des Vereins verstößt oder trotz zweimaliger Mahnung mit der Zahlung des Mitgliedsbeitrags im Rückstand ist. Vor der Entscheidung über den Ausschluss ist dem Mitglied Gelegenheit zur Stellungnahme zu geben. Die Entscheidung ist dem Mitglied in Textform mitzuteilen. Gegen den Ausschluss kann das Mitglied innerhalb eines Monats nach Zugang der Entscheidung Einspruch in Textform gegenüber dem Vorstand einlegen. Über den Einspruch entscheidet die nächste Mitgliederversammlung endgültig. Bis zu dieser Entscheidung ruhen die Mitgliedschaftsrechte des betroffenen Mitglieds.
 
 (7) Ehrenmitglieder können solche Personen werden, die sich in besonderer Weise um den Förderverein verdient gemacht haben. Ernennung erfolgt durch Beschluss der Mitgliederversammlung. Ehrenmitglieder sind beitragsfrei.
 
@@ -112,8 +112,6 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 (4) Jedes Mitglied legt die Höhe seines jährlichen Mitgliedsbeitrags selbst fest. Darüber hinaus können freiwillig weitere Beiträge geleistet werden.
 
 (5) Bei Eintritt während des laufenden Geschäftsjahres ist der Mitgliedsbeitrag für dieses Geschäftsjahr anteilig zu entrichten. Er beträgt für jeden Kalendermonat ab dem Monat des Beitritts (einschließlich) bis zum Ende des Geschäftsjahres ein Zwölftel des jährlichen Mitgliedsbeitrags.
-
-(6) Bei Nichtzahlung des Mitgliedsbeitrages trotz zweimaliger Mahnung kann der Vorstand den Ausschluss eines Mitglieds beschließen.
 
 ## § 9 Vorstand
 
