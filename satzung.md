@@ -13,7 +13,7 @@
 ## § 2 Vereinszweck
 
 (1) Zwecke des Vereins sind
-1. die Förderung der Erziehung, der Kinder- und Jugendhilfe,
+1. die Förderung der Erziehung und der Jugendhilfe,
 2. die Unterstützung von Kindern, die wegen ihres körperlichen, geistigen oder seelischen Zustands oder wegen ihrer wirtschaftlichen Lage auf die Hilfe anderer angewiesen sind.
 
 (2) Die Satzungszwecke werden insbesondere verwirklicht durch:
@@ -147,7 +147,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (1) Die Auflösung des Vereins kann nur von einer zu diesem Zweck einberufenen außerordentlichen Mitgliederversammlung mit einer Mehrheit von 3/4 der abgegebenen gültigen Stimmen beschlossen werden.
 
-(2) Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die Gemeinde Neuhäusel, die es unmittelbar und ausschließlich für steuerbegünstigte Zwecke der Förderung der Erziehung sowie der Kinder- und Jugendhilfe, nach Möglichkeit für die Kindertagesstätte Wichtelhaus Neuhäusel, zu verwenden hat.
+(2) Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die Gemeinde Neuhäusel, die es unmittelbar und ausschließlich für steuerbegünstigte Zwecke der Förderung der Erziehung sowie der Jugendhilfe, nach Möglichkeit für die Kindertagesstätte Wichtelhaus Neuhäusel, zu verwenden hat.
 
 ## § 12 Kassenprüfung
 
