@@ -74,7 +74,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (7) Die Mitgliederversammlung ist unabhängig von der Zahl der erschienenen stimmberechtigten Mitglieder beschlussfähig, sofern sie ordnungsgemäß einberufen wurde.
 
-(8) Jedes Mitglied ab Vollendung des 18. Lebensjahres hat eine Stimme. Eine Übertragung des Stimmrechts ist nicht zulässig.
+(8) Jedes Mitglied hat eine Stimme. Eine Übertragung des Stimmrechts ist nicht zulässig.
 
 (9) Ein Mitglied ist nicht stimmberechtigt, wenn die Beschlussfassung die Vornahme eines Rechtsgeschäfts mit ihm oder die Einleitung oder Erledigung eines Rechtsstreits zwischen ihm und dem Verein betrifft.
 
