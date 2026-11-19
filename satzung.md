@@ -115,7 +115,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 ## § 9 Vorstand
 
-(1) Der Vorstand besteht aus: dem/der 1. Vorsitzenden, dem/der 2. Vorsitzenden, dem/der Schriftführer/in und dem/der Kassenführer/in.
+(1) Der Vorstand besteht aus: dem/der 1. Vorsitzenden, dem/der 2. Vorsitzenden, dem/der Schriftführer/in und dem/der Kassenführer/in. Eine Person kann höchstens zwei Ämter gleichzeitig ausüben; die Ämter des/der 1. und 2. Vorsitzenden können nicht in einer Person vereinigt werden.
 
 (2) Die Mitgliederversammlung kann durch einfache Mehrheit beschließen, dass zusätzlich eine Anzahl Beisitzer/innen gewählt wird, davon möglichst ein/e Mitarbeiter/in des Kindergartens und möglichst ein/e Elternvertreter/in. Die Beisitzer/innen gehören dem Vorstand nicht an; sie nehmen an dessen Sitzungen mit beratender Funktion ohne Stimmrecht teil.
 
