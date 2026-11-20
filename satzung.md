@@ -2,7 +2,7 @@
 
 ## § 1 Name, Sitz und Geschäftsjahr
 
-(1) Der Verein führt den Namen „Förderverein Neuhäuseler Wichtel e.V.“.
+(1) Der Verein führt den Namen Förderverein "Neuhäuseler Wichtel" e.V.
 
 (2) Der Verein hat seinen Sitz in Neuhäusel.
 
@@ -12,10 +12,7 @@
 
 ## § 2 Vereinszweck
 
-(1) Zwecke des Vereins sind:
-
-1. die Förderung der Erziehung und der Jugendhilfe,
-2. die Unterstützung von Kindern, die wegen ihres körperlichen, geistigen oder seelischen Zustands oder wegen ihrer wirtschaftlichen Lage auf die Hilfe anderer angewiesen sind.
+(1) Zweck des Vereins ist die Förderung der Erziehung und der Jugendhilfe.
 
 (2) Die Satzungszwecke werden insbesondere verwirklicht durch:
 
@@ -24,13 +21,13 @@
 * die Beschaffung und Bereitstellung von Spiel-, Lern- und Ausstattungsgegenständen,
 * die Förderung pädagogischer und gemeinschaftlicher Veranstaltungen,
 * die Unterstützung von Projekten der Kinder- und Jugendarbeit in der Gemeinde Neuhäusel,
-* die Unterstützung hilfsbedürftiger Kinder der Kindertagesstätte, insbesondere durch die Übernahme von Kosten für Ausflüge, Veranstaltungen, Verpflegung oder Material.
+* die Übernahme von Kosten im Einzelfall, damit alle Kinder der Kindertagesstätte an deren Aktivitäten und an denen des Vereins teilnehmen können.
 
 ## § 3 Gemeinnützigkeit
 
 (1) Der Verein ist selbstlos tätig; er verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
 
-(2) Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige und mildtätige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
+(2) Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
 
 (3) Mittel des Vereins dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln des Vereins.
 
