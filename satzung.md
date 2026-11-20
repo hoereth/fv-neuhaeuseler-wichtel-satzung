@@ -13,10 +13,12 @@
 ## § 2 Vereinszweck
 
 (1) Zwecke des Vereins sind:
+
 1. die Förderung der Erziehung und der Jugendhilfe,
 2. die Unterstützung von Kindern, die wegen ihres körperlichen, geistigen oder seelischen Zustands oder wegen ihrer wirtschaftlichen Lage auf die Hilfe anderer angewiesen sind.
 
 (2) Die Satzungszwecke werden insbesondere verwirklicht durch:
+
 * die ideelle und finanzielle Unterstützung der pädagogischen Arbeit der Kindertagesstätte Wichtelhaus in Neuhäusel,
 * die Förderung der Zusammenarbeit zwischen Eltern, pädagogischen Fachkräften und dem Träger der Kindertagesstätte,
 * die Beschaffung und Bereitstellung von Spiel-, Lern- und Ausstattungsgegenständen,
@@ -126,6 +128,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 ## § 10 Geschäftsführung des Vorstands
 
 (1) Der Vorstand ist in ehrenamtlicher Tätigkeit für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch die Satzung der Mitgliederversammlung vorbehalten sind. Er hat vor allem folgende Aufgaben:
+
 * Einberufung der Mitgliederversammlung,
 * Ausführung der Beschlüsse der Mitgliederversammlung,
 * Wahrnehmung der Aufgaben gemäß § 2 der Satzung,
