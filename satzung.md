@@ -151,7 +151,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (3) Die Kassenprüfer/innen berichten der Mitgliederversammlung über das Ergebnis ihrer Prüfung und beantragen bei ordnungsgemäßer Kassenführung die Entlastung des Vorstands.
 
-## § 12 Auflösung/Wegfall des steuerbegünstigten Zwecks
+## § 12 Auflösung/Wegfall steuerbegünstigter Zwecke
 
 (1) Die Auflösung des Vereins kann durch die Mitgliederversammlung mit einer Mehrheit von 3/4 der abgegebenen gültigen Stimmen beschlossen werden. Über die Auflösung kann nur abgestimmt werden, wenn sie in der Einladung zur Mitgliederversammlung angekündigt wurde.
 
