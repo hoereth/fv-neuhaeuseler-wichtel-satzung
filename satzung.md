@@ -12,17 +12,19 @@
 
 ## § 2 Vereinszweck
 
-(1) Zwecke des Vereins sind
-1. die Förderung der Erziehung, der Kinder- und Jugendhilfe,
+(1) Zwecke des Vereins sind:
+
+1. die Förderung der Erziehung und der Jugendhilfe,
 2. die Unterstützung von Kindern, die wegen ihres körperlichen, geistigen oder seelischen Zustands oder wegen ihrer wirtschaftlichen Lage auf die Hilfe anderer angewiesen sind.
 
 (2) Die Satzungszwecke werden insbesondere verwirklicht durch:
-- die ideelle und finanzielle Unterstützung der pädagogischen Arbeit der Kindertagesstätte Wichtelhaus in Neuhäusel,
-- die Förderung der Zusammenarbeit zwischen Eltern, pädagogischen Fachkräften und dem Träger der Kindertagesstätte,
-- die Beschaffung und Bereitstellung von Spiel-, Lern- und Ausstattungsgegenständen,
-- die Förderung pädagogischer und gemeinschaftlicher Veranstaltungen,
-- die Unterstützung von Projekten der Kinder- und Jugendarbeit in der Gemeinde Neuhäusel,
-- die Unterstützung hilfsbedürftiger Kinder der Kindertagesstätte, insbesondere durch die Übernahme von Kosten für Ausflüge, Veranstaltungen, Verpflegung oder Material.
+
+* die ideelle und finanzielle Unterstützung der pädagogischen Arbeit der Kindertagesstätte Wichtelhaus in Neuhäusel,
+* die Förderung der Zusammenarbeit zwischen Eltern, pädagogischen Fachkräften und dem Träger der Kindertagesstätte,
+* die Beschaffung und Bereitstellung von Spiel-, Lern- und Ausstattungsgegenständen,
+* die Förderung pädagogischer und gemeinschaftlicher Veranstaltungen,
+* die Unterstützung von Projekten der Kinder- und Jugendarbeit in der Gemeinde Neuhäusel,
+* die Unterstützung hilfsbedürftiger Kinder der Kindertagesstätte, insbesondere durch die Übernahme von Kosten für Ausflüge, Veranstaltungen, Verpflegung oder Material.
 
 ## § 3 Gemeinnützigkeit
 
@@ -36,27 +38,25 @@
 
 (5) Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
-
 ## § 4 Erwerb und Beendigung der Mitgliedschaft
 
 (1) Mitglied des Vereins kann jede volljährige natürliche Person werden.
 
-(2) Der Aufnahmeantrag ist in Textform an den Vorstand zu richten. Mit dem Aufnahmeantrag teilt das Mitglied zugleich die von ihm selbst gewählte Höhe des jährlichen Mitgliedsbeitrags mit.
+(2) Der Aufnahmeantrag ist in Textform an den Vorstand zu richten. Mit dem Aufnahmeantrag teilt der/die Antragsteller/in zugleich die von ihm/ihr selbst gewählte Höhe des jährlichen Mitgliedsbeitrags mit.
 
 (3) Die Aufnahme erfolgt durch Beschluss des Vorstands. Ein Anspruch auf Aufnahme besteht nicht. Eine Ablehnung muss nicht begründet werden.
 
-(4) Änderungen der dem Verein mitgeteilten Kontaktdaten, der Bankverbindung und der Höhe des Mitgliedsbeitrags sind dem Vorstand schriftlich mitzuteilen. Änderungen des Mitgliedsbeitrags werden ab dem folgenden Geschäftsjahr wirksam.
+(4) Änderungen der dem Verein mitgeteilten Kontaktdaten, der Bankverbindung und der Höhe des Mitgliedsbeitrags sind dem Vorstand in Textform mitzuteilen. Änderungen des Mitgliedsbeitrags werden ab dem folgenden Geschäftsjahr wirksam.
 
 (5) Der Austritt ist gegenüber dem Vorstand in Textform zu erklären. Der Austritt ist jederzeit möglich und ist an keine Frist gebunden. Die Beitragspflicht endet mit Ablauf des Geschäftsjahres, in welchem die Mitgliedschaft endet.
 
-(6) Ein Mitglied kann aus wichtigem Grund durch Beschluss des Vorstands aus dem Verein ausgeschlossen werden. Ein wichtiger Grund liegt insbesondere vor, wenn ein Mitglied schuldhaft in erheblicher Weise gegen die Interessen oder Zwecke des Vereins verstößt. Vor der Entscheidung über den Ausschluss ist dem Mitglied Gelegenheit zur Stellungnahme zu geben. Die Entscheidung ist dem Mitglied in Textform mitzuteilen. Gegen den Ausschluss kann das Mitglied innerhalb eines Monats nach Zugang der Entscheidung Einspruch einlegen. Über den Einspruch entscheidet die nächste Mitgliederversammlung endgültig. Bis zu dieser Entscheidung ruhen die Mitgliedschaftsrechte des betroffenen Mitglieds.
+(6) Ein Mitglied kann aus wichtigem Grund durch Beschluss des Vorstands aus dem Verein ausgeschlossen werden. Ein wichtiger Grund liegt insbesondere vor, wenn ein Mitglied schuldhaft in erheblicher Weise gegen die Interessen oder Zwecke des Vereins verstößt oder trotz zweimaliger Mahnung mit der Zahlung des Mitgliedsbeitrags im Rückstand ist. Vor der Entscheidung über den Ausschluss ist dem Mitglied Gelegenheit zur Stellungnahme zu geben. Die Entscheidung ist dem Mitglied in Textform mitzuteilen. Gegen den Ausschluss kann das Mitglied innerhalb eines Monats nach Zugang der Entscheidung Einspruch in Textform gegenüber dem Vorstand einlegen. Über den Einspruch entscheidet die nächste Mitgliederversammlung endgültig. Bis zu dieser Entscheidung ruhen die Mitgliedschaftsrechte des betroffenen Mitglieds.
 
-(7) Ehrenmitglieder können solche Personen werden, die sich in besonderer Weise um den Förderverein verdient gemacht haben. Ernennung erfolgt durch Beschluss der Mitgliederversammlung. Ehrenmitglieder sind beitragsfrei.
+(7) Ehrenmitglieder können solche Personen werden, die sich in besonderer Weise um den Verein verdient gemacht haben. Die Ernennung erfolgt durch Beschluss der Mitgliederversammlung. Ehrenmitglieder sind beitragsfrei.
 
 ## § 5 Organe des Vereins
 
 Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
-
 
 ## § 6 Mitgliederversammlung
 
@@ -68,23 +68,23 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (4) Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn dies das Vereinsinteresse erfordert oder wenn mindestens ein Zehntel der Mitglieder dies unter Angabe des Zwecks und der Gründe in Textform verlangt.
 
-(5) Die Mitgliederversammlung wird von dem/der 1. Vorsitzenden, bei Verhinderung von dem/der 2. Vorsitzenden geleitet. Sind beide verhindert, wählt die Mitgliederversammlung eine/n Versammlungsleiter/in.
+(5) Die Mitgliederversammlung wird vom/von der 1. Vorsitzenden, bei Verhinderung vom/von der 2. Vorsitzenden geleitet. Sind beide verhindert, wählt die Mitgliederversammlung eine/n Versammlungsleiter/in.
 
-(6) Die Mitgliederversammlung kann als Präsenzversammlung, als hybride Versammlung oder, soweit die gesetzlichen Voraussetzungen erfüllt sind, als virtuelle Versammlung durchgeführt werden. In der Einladung ist anzugeben, wie die Mitglieder ihre Rechte im Wege der elektronischen Kommunikation ausüben können.
+(6) Der Vorstand bestimmt, ob die Mitgliederversammlung als Präsenzversammlung, als hybride Versammlung oder als virtuelle Versammlung durchgeführt wird. In der Einladung ist anzugeben, wie die Mitglieder ihre Rechte im Wege der elektronischen Kommunikation ausüben können.
 
 (7) Die Mitgliederversammlung ist unabhängig von der Zahl der erschienenen stimmberechtigten Mitglieder beschlussfähig, sofern sie ordnungsgemäß einberufen wurde.
 
-(8) Jedes Mitglied ab Vollendung des 18. Lebensjahres hat eine Stimme. Eine Übertragung des Stimmrechts ist nicht zulässig.
+(8) Jedes Mitglied hat eine Stimme. Eine Übertragung des Stimmrechts ist nicht zulässig.
 
 (9) Ein Mitglied ist nicht stimmberechtigt, wenn die Beschlussfassung die Vornahme eines Rechtsgeschäfts mit ihm oder die Einleitung oder Erledigung eines Rechtsstreits zwischen ihm und dem Verein betrifft.
 
 (10) Bei der Beschlussfassung entscheidet die einfache Mehrheit der abgegebenen gültigen Stimmen, soweit diese Satzung nichts Abweichendes bestimmt. Stimmenthaltungen werden nicht als abgegebene Stimmen gewertet.
 
-(11) Über die Mitgliederversammlung ist ein Protokoll zu führen. Das Protokoll ist von Versammlungsleiter/in und Protokollführer/in zu unterzeichnen.
+(11) Über die Mitgliederversammlung ist ein Protokoll zu führen. Das Protokoll ist von dem/der Versammlungsleiter/in und dem/der Protokollführer/in zu unterzeichnen.
 
 (12) Die Mitgliederversammlung ist insbesondere zuständig für:
 
-* Satzungsänderungen
+* Satzungsänderungen,
 * die Entgegennahme des Jahresberichts des Vorstands,
 * die Entgegennahme des Kassenberichts,
 * die Entgegennahme des Berichts der Kassenprüfer/innen,
@@ -99,67 +99,64 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (1) Satzungsänderungen können durch die Mitgliederversammlung mit einer Mehrheit von 2/3 der abgegebenen gültigen Stimmen beschlossen werden. Über eine Satzungsänderung kann nur abgestimmt werden, wenn sie in der Einladung zur Mitgliederversammlung unter Angabe der zu ändernden Bestimmungen angekündigt wurde.
 
-(2) Die Satzungsänderungen, die vom Finanzamt zum Erlangen oder zum Erhalt der Gemeinnützigkeit gefordert werden sowie vom Amtsgericht zur Eintragung ins Vereinsregister verlangt werden, können vom Vorstand ohne erneute Befragung der Mitgliederversammlung vorgenommen werden. Diese Änderungen sind auf der nächsten Mitgliederversammlung vorzutragen.
+(2) Satzungsänderungen, die vom Finanzamt zum Erlangen oder zum Erhalt der Gemeinnützigkeit gefordert werden oder vom Amtsgericht zur Eintragung ins Vereinsregister verlangt werden, können vom Vorstand ohne erneute Befragung der Mitgliederversammlung vorgenommen werden. Diese Änderungen sind auf der nächsten Mitgliederversammlung vorzutragen.
 
 ## § 8 Finanzierung
 
-(1) Der Verein finanziert sich aus Mitgliedsbeiträgen, Spenden und Zuwendungen. Er prüft auch, Zuwendungen aus öffentlichen Mitteln zu erhalten.
+(1) Der Verein finanziert sich aus Mitgliedsbeiträgen, Spenden und Zuwendungen.
 
 (2) Es werden Mitgliedsbeiträge erhoben, die jeweils für ein Geschäftsjahr im Voraus zu entrichten sind.
 
 (3) Liegt ein SEPA-Lastschriftmandat vor, so wird der Beitrag im Januar eines jeden Jahres eingezogen. Wird eine Lastschrift aus Gründen, die das Mitglied zu vertreten hat, nicht eingelöst oder zurückgegeben, insbesondere wegen mangelnder Kontodeckung, eines erloschenen Kontos, einer nicht mitgeteilten Änderung der Bankverbindung oder eines unberechtigten Widerspruchs, so hat das Mitglied den Beitrag zuzüglich der dem Verein dadurch entstehenden Bankgebühren zu überweisen.
 
-(4) Jedes Mitglied legt die Höhe seines jährlichen Mitgliedsbeitrags selbst fest. Darüber hinaus können freiwillig weitere Beiträge geleistet werden.
+(4) Jedes Mitglied legt die Höhe seines jährlichen Mitgliedsbeitrags selbst fest.
 
 (5) Bei Eintritt während des laufenden Geschäftsjahres ist der Mitgliedsbeitrag für dieses Geschäftsjahr anteilig zu entrichten. Er beträgt für jeden Kalendermonat ab dem Monat des Beitritts (einschließlich) bis zum Ende des Geschäftsjahres ein Zwölftel des jährlichen Mitgliedsbeitrags.
 
-(6) Bei Nichtzahlung des Mitgliedsbeitrages trotz zweimaliger Mahnung kann der Vorstand den Ausschluss eines Mitglieds beschließen.
-
 ## § 9 Vorstand
 
-(1) Der Vorstand besteht aus: dem/der 1. Vorsitzenden, dem/der 2. Vorsitzenden, dem/der Schriftführer/in und dem/der Kassenführer/in.
+(1) Der Vorstand besteht aus: dem/der 1. Vorsitzenden, dem/der 2. Vorsitzenden, dem/der Schriftführer/in und dem/der Kassenführer/in. Eine Person kann höchstens zwei Ämter gleichzeitig ausüben; die Ämter des/der 1. und 2. Vorsitzenden können nicht in einer Person vereinigt werden.
 
-(2) Die Mitgliederversammlung kann durch einfache Mehrheit beschließen, dass zusätzlich eine Anzahl Beisitzer gewählt wird, davon möglichst ein/e Mitarbeiter/in des Kindergartens und möglichst ein/e Elternvertreter/in. Die Beisitzer gehören dem Vorstand nicht an; sie nehmen an dessen Sitzungen mit beratender Funktion ohne Stimmrecht teil.
+(2) Die Mitgliederversammlung kann durch einfache Mehrheit beschließen, dass zusätzlich eine festgelegte Anzahl von Beisitzer/innen gewählt wird, davon möglichst ein/e Mitarbeiter/in der Kindertagesstätte und möglichst ein/e Elternvertreter/in. Die Beisitzer/innen gehören dem Vorstand nicht an; sie nehmen an dessen Sitzungen mit beratender Funktion ohne Stimmrecht teil.
 
-(3) Der Vorstand und die Beisitzer/innen werden von der Mitgliederversammlung jeweils für 2 Jahre gewählt. Die Amtszeit beginnt mit der Annahme der Wahl. Die Amtszeit eines Vorstandsmitglieds verlängert sich bis zum Amtsantritt des/der Nachfolger/in. Wiederwahl ist zulässig.
+(3) Der Vorstand und die Beisitzer/innen werden von der Mitgliederversammlung jeweils für zwei Jahre gewählt. Die Amtszeit beginnt mit der Annahme der Wahl. Die Amtszeit eines Vorstandsmitglieds verlängert sich bis zum Amtsantritt seines Nachfolgers/seiner Nachfolgerin. Wiederwahl ist zulässig.
 
-(4) Scheidet ein Mitglied des Vorstandes während der Amtsperiode aus, kann der Vorstand für die Dauer der restlichen Amtsdauer ein Ersatzmitglied berufen.
+(4) Scheidet ein Mitglied des Vorstands während der Amtszeit aus, kann der Vorstand für die restliche Amtszeit ein Ersatzmitglied berufen.
 
 (5) Der/die 1. Vorsitzende, der/die 2. Vorsitzende, der/die Schriftführer/in und der/die Kassenführer/in sind Vorstand im Sinne des § 26 BGB. Je zwei von ihnen sind gemeinsam vertretungsberechtigt.
 
-## § 10 Geschäftsführung des Vorstandes
+## § 10 Geschäftsführung des Vorstands
 
 (1) Der Vorstand ist in ehrenamtlicher Tätigkeit für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch die Satzung der Mitgliederversammlung vorbehalten sind. Er hat vor allem folgende Aufgaben:
-* Einberufung der Mitgliederversammlung
-* Ausführung der Beschlüsse der Mitgliederversammlung
-* Wahrnehmung der Aufgaben gemäß § 2 der Satzung
-* Kassenführung und Erstellung des Jahresberichtes
+
+* Einberufung der Mitgliederversammlung,
+* Ausführung der Beschlüsse der Mitgliederversammlung,
+* Wahrnehmung der Aufgaben gemäß § 2 der Satzung,
+* Kassenführung und Erstellung des Jahresberichts.
 
 (2) Der Vorstand beschließt in Sitzungen. Der/die 1. Vorsitzende beruft die Sitzungen in Textform unter Beachtung einer Mindestfrist von sieben Tagen ein und leitet sie. Bei dessen/deren Verhinderung tritt an seine/ihre Stelle der/die 2. Vorsitzende. Eine Sitzung ist unverzüglich einzuberufen, wenn mindestens zwei Vorstandsmitglieder dies verlangen.
 
-(3) Beschlüsse des Vorstands werden mit einfacher Mehrheit gefasst. Bei Stimmengleichheit gilt der Antrag als abgelehnt. Der Vorstand ist beschlussfähig, wenn mindestens zwei Vorstandsmitglieder, darunter eine/r der beiden Vorsitzenden anwesend sind. Ein Beschluss des Vorstands kann auch in Textform oder fernmündlich gefasst werden, wenn kein Vorstandsmitglied widerspricht.
+(3) Beschlüsse des Vorstands werden mit einfacher Mehrheit gefasst. Bei Stimmengleichheit gilt der Antrag als abgelehnt. Der Vorstand ist beschlussfähig, wenn mindestens zwei Vorstandsmitglieder, darunter eine/r der beiden Vorsitzenden, anwesend sind. Ein Beschluss des Vorstands kann auch in Textform oder fernmündlich gefasst werden, wenn kein Vorstandsmitglied widerspricht.
 
-(4) Der/die Kassenführer/in verwaltet die Vereinskasse und führt Buch über die Einnahmen und Ausgaben und verwaltet Barkasse sowie Bankvermögen des Vereins. Er/Sie leistet Auszahlungen, bei Beträgen über 200 € nur aufgrund eines Vorstandsbeschlusses.
+(4) Der/die Kassenführer/in verwaltet Barkasse sowie Bankvermögen und führt Buch über die Einnahmen und Ausgaben. Er/Sie leistet Auszahlungen, bei Beträgen über 200 € nur aufgrund eines Vorstandsbeschlusses.
 
-(5) Über die Sitzung des Vorstands ist ein Protokoll zu führen, das von Versammlungsleiter/in und Schriftführer/in zu unterzeichnen ist.
+(5) Über die Sitzung des Vorstands ist ein Protokoll zu führen, das vom/von der Sitzungsleiter/in und vom/von der Schriftführer/in zu unterzeichnen ist.
 
 (6) Alle Vorstandsmitglieder arbeiten ehrenamtlich und erhalten lediglich ihre nachgewiesenen Auslagen erstattet.
 
-## § 11 Auflösung/Wegfall des steuerbegünstigten Zwecks
+## § 11 Kassenprüfung
 
-(1) Die Auflösung des Vereins kann nur von einer zu diesem Zweck einberufenen außerordentlichen Mitgliederversammlung mit einer Mehrheit von 3/4 der abgegebenen gültigen Stimmen beschlossen werden.
-
-(2) Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die Gemeinde Neuhäusel, die es unmittelbar und ausschließlich für gemeinnützige Zwecke, Kinder und Jugendarbeit betreffend, nach Möglichkeit für die Kindertagesstätte Wichtelhaus Neuhäusel, zu verwenden hat.
-
-(3) Die aus den Geldern angeschafften Sachwerte können den Einrichtungen nicht entzogen werden.
-
-## § 12 Kassenprüfung
-
-(1) Die Mitgliederversammlung wählt zwei Kassenprüfer/innen für die Dauer von zwei Jahren. Eine/r der beiden Kassenprüfer/innen kann wiedergewählt werden. Kein/e Kassenprüfer/in darf über die Amtszeit von 4 Jahren hinaus wiedergewählt werden. Kassenprüfer/innen dürfen nicht dem Vorstand angehören und nicht mit der laufenden Kassenführung befasst sein.
+(1) Die Mitgliederversammlung wählt zwei Kassenprüfer/innen für die Dauer von zwei Jahren. Eine/r der beiden Kassenprüfer/innen kann wiedergewählt werden. Kein/e Kassenprüfer/in darf über die Amtszeit von vier Jahren hinaus wiedergewählt werden. Kassenprüfer/innen dürfen nicht dem Vorstand angehören und nicht mit der laufenden Kassenführung befasst sein.
 
 (2) Die Kassenprüfer/innen prüfen nach Abschluss des Geschäftsjahres und vor der ordentlichen Mitgliederversammlung die Ordnungsmäßigkeit der Kassen- und Buchführung sowie die satzungsgemäße Verwendung der Mittel.
 
 (3) Die Kassenprüfer/innen berichten der Mitgliederversammlung über das Ergebnis ihrer Prüfung und beantragen bei ordnungsgemäßer Kassenführung die Entlastung des Vorstands.
+
+## § 12 Auflösung/Wegfall steuerbegünstigter Zwecke
+
+(1) Die Auflösung des Vereins kann durch die Mitgliederversammlung mit einer Mehrheit von 3/4 der abgegebenen gültigen Stimmen beschlossen werden. Über die Auflösung kann nur abgestimmt werden, wenn sie in der Einladung zur Mitgliederversammlung angekündigt wurde.
+
+(2) Bei Auflösung oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an die Gemeinde Neuhäusel, die es unmittelbar und ausschließlich für steuerbegünstigte Zwecke der Förderung der Erziehung sowie der Jugendhilfe, nach Möglichkeit für die Kindertagesstätte Wichtelhaus, zu verwenden hat.
 
 ## § 13 Inkrafttreten der Satzung
 
