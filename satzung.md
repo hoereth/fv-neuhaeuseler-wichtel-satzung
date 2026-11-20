@@ -126,10 +126,10 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 ## § 10 Geschäftsführung des Vorstands
 
 (1) Der Vorstand ist in ehrenamtlicher Tätigkeit für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch die Satzung der Mitgliederversammlung vorbehalten sind. Er hat vor allem folgende Aufgaben:
-* Einberufung der Mitgliederversammlung
-* Ausführung der Beschlüsse der Mitgliederversammlung
-* Wahrnehmung der Aufgaben gemäß § 2 der Satzung
-* Kassenführung und Erstellung des Jahresberichts
+* Einberufung der Mitgliederversammlung,
+* Ausführung der Beschlüsse der Mitgliederversammlung,
+* Wahrnehmung der Aufgaben gemäß § 2 der Satzung,
+* Kassenführung und Erstellung des Jahresberichts.
 
 (2) Der Vorstand beschließt in Sitzungen. Der/die 1. Vorsitzende beruft die Sitzungen in Textform unter Beachtung einer Mindestfrist von sieben Tagen ein und leitet sie. Bei dessen/deren Verhinderung tritt an seine/ihre Stelle der/die 2. Vorsitzende. Eine Sitzung ist unverzüglich einzuberufen, wenn mindestens zwei Vorstandsmitglieder dies verlangen.
 
