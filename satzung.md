@@ -131,7 +131,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 * Einberufung der Mitgliederversammlung
 * Ausführung der Beschlüsse der Mitgliederversammlung
 * Wahrnehmung der Aufgaben gemäß § 2 der Satzung
-* Kassenführung und Erstellung des Jahresberichtes
+* Kassenführung und Erstellung des Jahresberichts
 
 (2) Der Vorstand beschließt in Sitzungen. Der/die 1. Vorsitzende beruft die Sitzungen in Textform unter Beachtung einer Mindestfrist von sieben Tagen ein und leitet sie. Bei dessen/deren Verhinderung tritt an seine/ihre Stelle der/die 2. Vorsitzende. Eine Sitzung ist unverzüglich einzuberufen, wenn mindestens zwei Vorstandsmitglieder dies verlangen.
 
