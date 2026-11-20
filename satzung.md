@@ -80,7 +80,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (10) Bei der Beschlussfassung entscheidet die einfache Mehrheit der abgegebenen gültigen Stimmen, soweit diese Satzung nichts Abweichendes bestimmt. Stimmenthaltungen werden nicht als abgegebene Stimmen gewertet.
 
-(11) Über die Mitgliederversammlung ist ein Protokoll zu führen. Das Protokoll ist vom/von der Versammlungsleiter/in und vom/von der Protokollführer/in zu unterzeichnen.
+(11) Über die Mitgliederversammlung ist ein Protokoll zu führen. Das Protokoll ist von Versammlungsleiter/in und Protokollführer/in zu unterzeichnen.
 
 (12) Die Mitgliederversammlung ist insbesondere zuständig für:
 
@@ -145,6 +145,8 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 (6) Alle Vorstandsmitglieder arbeiten ehrenamtlich und erhalten lediglich ihre nachgewiesenen Auslagen erstattet.
 
 ## § 11 Kassenprüfung
+
+## § 12 Kassenprüfung
 
 (1) Die Mitgliederversammlung wählt zwei Kassenprüfer/innen für die Dauer von zwei Jahren. Eine/r der beiden Kassenprüfer/innen kann wiedergewählt werden. Kein/e Kassenprüfer/in darf über die Amtszeit von vier Jahren hinaus wiedergewählt werden. Kassenprüfer/innen dürfen nicht dem Vorstand angehören und nicht mit der laufenden Kassenführung befasst sein.
 
