@@ -2,7 +2,7 @@
 
 ## § 1 Name, Sitz und Geschäftsjahr
 
-(1) Der Verein führt den Namen „Förderverein Neuhäuseler Wichtel e.V.“.
+(1) Der Verein führt den Namen Förderverein "Neuhäuseler Wichtel" e.V.
 
 (2) Der Verein hat seinen Sitz in Neuhäusel.
 
