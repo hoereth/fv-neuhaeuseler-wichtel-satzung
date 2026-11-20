@@ -17,12 +17,12 @@
 2. die Unterstützung von Kindern, die wegen ihres körperlichen, geistigen oder seelischen Zustands oder wegen ihrer wirtschaftlichen Lage auf die Hilfe anderer angewiesen sind.
 
 (2) Die Satzungszwecke werden insbesondere verwirklicht durch:
-- die ideelle und finanzielle Unterstützung der pädagogischen Arbeit der Kindertagesstätte Wichtelhaus in Neuhäusel,
-- die Förderung der Zusammenarbeit zwischen Eltern, pädagogischen Fachkräften und dem Träger der Kindertagesstätte,
-- die Beschaffung und Bereitstellung von Spiel-, Lern- und Ausstattungsgegenständen,
-- die Förderung pädagogischer und gemeinschaftlicher Veranstaltungen,
-- die Unterstützung von Projekten der Kinder- und Jugendarbeit in der Gemeinde Neuhäusel,
-- die Unterstützung hilfsbedürftiger Kinder der Kindertagesstätte, insbesondere durch die Übernahme von Kosten für Ausflüge, Veranstaltungen, Verpflegung oder Material.
+* die ideelle und finanzielle Unterstützung der pädagogischen Arbeit der Kindertagesstätte Wichtelhaus in Neuhäusel,
+* die Förderung der Zusammenarbeit zwischen Eltern, pädagogischen Fachkräften und dem Träger der Kindertagesstätte,
+* die Beschaffung und Bereitstellung von Spiel-, Lern- und Ausstattungsgegenständen,
+* die Förderung pädagogischer und gemeinschaftlicher Veranstaltungen,
+* die Unterstützung von Projekten der Kinder- und Jugendarbeit in der Gemeinde Neuhäusel,
+* die Unterstützung hilfsbedürftiger Kinder der Kindertagesstätte, insbesondere durch die Übernahme von Kosten für Ausflüge, Veranstaltungen, Verpflegung oder Material.
 
 ## § 3 Gemeinnützigkeit
 
