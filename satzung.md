@@ -121,11 +121,11 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (3) Der Vorstand und die Beisitzer/innen werden von der Mitgliederversammlung jeweils für zwei Jahre gewählt. Die Amtszeit beginnt mit der Annahme der Wahl. Die Amtszeit eines Vorstandsmitglieds verlängert sich bis zum Amtsantritt seines Nachfolgers/seiner Nachfolgerin. Wiederwahl ist zulässig.
 
-(4) Scheidet ein Mitglied des Vorstandes während der Amtsperiode aus, kann der Vorstand für die restliche Amtszeit ein Ersatzmitglied berufen.
+(4) Scheidet ein Mitglied des Vorstands während der Amtsperiode aus, kann der Vorstand für die restliche Amtszeit ein Ersatzmitglied berufen.
 
 (5) Der/die 1. Vorsitzende, der/die 2. Vorsitzende, der/die Schriftführer/in und der/die Kassenführer/in sind Vorstand im Sinne des § 26 BGB. Je zwei von ihnen sind gemeinsam vertretungsberechtigt.
 
-## § 10 Geschäftsführung des Vorstandes
+## § 10 Geschäftsführung des Vorstands
 
 (1) Der Vorstand ist in ehrenamtlicher Tätigkeit für alle Angelegenheiten des Vereins zuständig, soweit sie nicht durch die Satzung der Mitgliederversammlung vorbehalten sind. Er hat vor allem folgende Aufgaben:
 * Einberufung der Mitgliederversammlung
