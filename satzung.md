@@ -36,7 +36,6 @@
 
 (5) Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
 
-
 ## § 4 Erwerb und Beendigung der Mitgliedschaft
 
 (1) Mitglied des Vereins kann jede volljährige natürliche Person werden.
@@ -56,7 +55,6 @@
 ## § 5 Organe des Vereins
 
 Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
-
 
 ## § 6 Mitgliederversammlung
 
