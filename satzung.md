@@ -137,7 +137,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (4) Der/die Kassenführer/in verwaltet Barkasse sowie Bankvermögen und führt Buch über die Einnahmen und Ausgaben. Er/Sie leistet Auszahlungen, bei Beträgen über 200 € nur aufgrund eines Vorstandsbeschlusses.
 
-(5) Über die Sitzung des Vorstands ist ein Protokoll zu führen, das vom/von der Versammlungsleiter/in und vom/von der Schriftführer/in zu unterzeichnen ist.
+(5) Über die Sitzung des Vorstands ist ein Protokoll zu führen, das vom/von der Sitzungsleiter/in und vom/von der Schriftführer/in zu unterzeichnen ist.
 
 (6) Alle Vorstandsmitglieder arbeiten ehrenamtlich und erhalten lediglich ihre nachgewiesenen Auslagen erstattet.
 
