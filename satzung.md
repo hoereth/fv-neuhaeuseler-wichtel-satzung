@@ -146,8 +146,6 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 ## § 11 Kassenprüfung
 
-## § 12 Kassenprüfung
-
 (1) Die Mitgliederversammlung wählt zwei Kassenprüfer/innen für die Dauer von zwei Jahren. Eine/r der beiden Kassenprüfer/innen kann wiedergewählt werden. Kein/e Kassenprüfer/in darf über die Amtszeit von vier Jahren hinaus wiedergewählt werden. Kassenprüfer/innen dürfen nicht dem Vorstand angehören und nicht mit der laufenden Kassenführung befasst sein.
 
 (2) Die Kassenprüfer/innen prüfen nach Abschluss des Geschäftsjahres und vor der ordentlichen Mitgliederversammlung die Ordnungsmäßigkeit der Kassen- und Buchführung sowie die satzungsgemäße Verwendung der Mittel.
