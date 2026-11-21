@@ -138,7 +138,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (3) Beschlüsse des Vorstands werden mit einfacher Mehrheit gefasst. Bei Stimmengleichheit gilt der Antrag als abgelehnt. Der Vorstand ist beschlussfähig, wenn mindestens zwei Vorstandsmitglieder, darunter eine/r der beiden Vorsitzenden, anwesend sind. Ein Beschluss des Vorstands kann auch in Textform oder fernmündlich gefasst werden, wenn kein Vorstandsmitglied widerspricht.
 
-(4) Der/die Kassenführer/in verwaltet Barkasse sowie Bankvermögen und führt Buch über die Einnahmen und Ausgaben. Er/Sie leistet Auszahlungen, bei Beträgen über 200 € nur aufgrund eines Vorstandsbeschlusses.
+(4) Der/die Kassenführer/in verwaltet Barkasse sowie Bankvermögen und führt Buch über die Einnahmen und Ausgaben. Er/Sie leistet Auszahlungen, bei Beträgen über 400 € nur aufgrund eines Vorstandsbeschlusses.
 
 (5) Über die Sitzung des Vorstands ist ein Protokoll zu führen, das vom/von der Sitzungsleiter/in und vom/von der Schriftführer/in zu unterzeichnen ist.
 
