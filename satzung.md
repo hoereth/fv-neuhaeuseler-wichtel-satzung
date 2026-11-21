@@ -139,7 +139,7 @@ Organe des Vereins sind die Mitgliederversammlung und der Vorstand.
 
 (5) Über die Sitzung des Vorstands ist ein Protokoll zu führen, das vom/von der Sitzungsleiter/in und vom/von der Schriftführer/in zu unterzeichnen ist.
 
-(6) Alle Vorstandsmitglieder arbeiten ehrenamtlich und erhalten lediglich ihre nachgewiesenen Auslagen erstattet.
+(6) Die Vorstandsmitglieder sind ehrenamtlich tätig und erhalten ihre nachgewiesenen Auslagen erstattet. Der Vorstand kann beschließen, dass einzelnen Vorstandsmitgliedern für ihre Tätigkeit eine Vergütung bis zur Höhe der Ehrenamtspauschale nach § 3 Nr. 26a EStG gezahlt wird.
 
 ## § 11 Kassenprüfung
 
